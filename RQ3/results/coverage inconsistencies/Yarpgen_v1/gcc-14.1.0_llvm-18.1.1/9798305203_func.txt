@@ -1,0 +1,3 @@
+934 : 2 | 1
+ tf_1_array_3 [1] = (long int) (((int) ((((-(-((int) (*(tf_1_ptr_4))))) && ((int) (tf_1_struct_obj_1.member_4_7.member_2_0.member_1_2))) ? (((long int) ((+(-33554432)) | (((int) (~((((long int) (4)) & ((long int) ((0) | ((int) (0))))) | (((long int) ((0) & (-6341))) | (tf_1_array_1 [1]))))) && (17553)))) - (tf_1_array_1 [1])) : (-(tf_1_array_1 [1]))))) && (((((int) (~((((long int) (4)) & ((long int) ((0) | ((int) (0))))) | (((long int) ((0) & (-6341))) | (tf_1_array_1 [1]))))) && (17553)) * ((((int) (4)) * (478080409)) / ((tf_1_struct_obj_1.member_4_5) / (33554432)))) * (+(((int) (~((((long int) (4)) & ((long int) ((0) | ((int) (0))))) | (((long int) ((0) & (-6341))) | (tf_1_array_1 [1]))))) && (17553)))));
+

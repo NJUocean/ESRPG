@@ -1,0 +1,3 @@
+551 : 2 | 1
+ if ((((g_4497 , (safe_add_func_int8_t_s_s(((((safe_mul_func_int16_t_s_s(((safe_rshift_func_uint64_t_u_s((safe_add_func_uint16_t_u_u((((((-5L) == ((safe_sub_func_uint8_t_u_u(255UL, (safe_rshift_func_int32_t_s_u((*l_4258), 28)))) || l_4462)) != 0xC6L) && ((*g_180) ^ ((*l_4300) = ((void*)0 != (*g_3666))))) < (*l_4258)), l_4510)), (*l_4258))) , l_4511), (*g_3441))) , (*l_4258)) < g_4512) && l_4462), 253UL))) <= l_4513) || (*l_4258)))
+

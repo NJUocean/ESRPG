@@ -1,0 +1,3 @@
+316 : 2 | 1
+ if (func_7(&g_6, &g_6, (func_12((+((safe_sub_func_uint8_t_u_u((g_6 > (g_17[0] = (g_6 & 0x05L))), g_6)) > l_2))) , (((((safe_mod_func_int16_t_s_s((l_4283 = (-3L)), l_4284)) && l_2) , 4UL) && 0xB0L) ^ l_2)), l_4285[2]))
+

@@ -1,0 +1,3 @@
+5222 : 2 | 1
+ unsigned long long int tf_3_var_1054 = !(!((((((int) (tf_3_var_36)) || ((int) (tf_3_var_28))) ? (((int) (tf_3_var_42)) && ((int) (3860907116U))) : (((int) (*(tf_3_ptr_11))) || ((int) (tf_3_var_772))))) && (!(((int) (tf_3_var_78)) && ((int) (*(tf_3_ptr_1)))))));
+

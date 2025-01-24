@@ -1,0 +1,3 @@
+5670 : 2 | 1
+ unsigned int tf_4_var_852 = (((int) (5715241502015935832LL)) && (!(!(((int) (tf_4_struct_obj_6.member_5_3.member_2_3.member_1_8)) && ((int) (2U)))))) && ((!(((int) ((signed char) (tf_4_struct_obj_4.member_2_8.member_1_7))) || (((int) (tf_4_var_66)) || ((int) (-5715241502015935833LL))))) || (((int) (((((int) (tf_4_var_52)) || ((int) (tf_4_struct_obj_6.member_5_3.member_2_5))) ? ((long long int) (!((int) (tf_4_var_84)))) : (tf_4_var_22)))) || ((int) (tf_4_var_32))));
+

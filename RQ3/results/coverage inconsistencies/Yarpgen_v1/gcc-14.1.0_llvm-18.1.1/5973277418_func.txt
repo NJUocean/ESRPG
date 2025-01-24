@@ -1,0 +1,6 @@
+276 : 2 | 1
+ short tf_1_var_313 = ~(((int) ((signed char) (!((int) (((((int) (tf_1_var_102)) || ((int) (tf_1_struct_obj_2.member_2_1.member_1_0))) ? ((((int) (tf_1_struct_obj_2.member_2_6.member_1_2)) ? (tf_1_array_1 [2]) : ((long long int) (-30228)))) : ((long long int) (((int) (tf_1_var_12)) || ((int) (tf_1_var_78)))))))))) || ((int) (((!(((int) ((((int) (*(tf_1_ptr_5))) ? (16LL) : (974931651488095817LL)))) || (!((int) (tf_1_var_8))))) ? (~(+((((+((int) (0))) + (-9)) ? (((long long int) (((int) (tf_1_var_90)) - ((int) (tf_1_var_94)))) + (((long long int) (9)) + (tf_1_array_1 [4]))) : ((long long int) ((int) (tf_1_var_54))))))) : ((long long int) (((((int) (tf_1_var_64)) && (-11307)) || (!((int) (tf_1_var_78)))) || ((int) ((signed char) (((30228) ? ((int) (tf_1_var_80)) : (0)))))))))));
+
+1681 : 2 | 1
+ *(tf_4_ptr_12) = (short) (-(((((int) ((short) (tf_4_var_60))) * ((int) (tf_4_array_5 [4]))) / ((+((int) (tf_4_var_64))) - (((int) (tf_4_var_50)) + ((int) (tf_4_var_201))))) && (-((((((int) (tf_4_var_74)) ? ((int) (tf_4_var_112)) : (384))) ? (((int) (tf_4_array_7 [2])) * ((int) (tf_4_array_7 [4]))) : ((int) (tf_4_array_6 [1])))))));
+

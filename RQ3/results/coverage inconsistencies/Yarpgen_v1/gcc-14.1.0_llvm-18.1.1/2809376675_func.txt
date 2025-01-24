@@ -1,0 +1,6 @@
+6780 : 2 | 1
+ if (((unsigned long long int) (((int) ((-(+(tf_4_var_92))) >= ((unsigned long long int) (~((((int) (*(tf_4_ptr_3))) ? (tf_4_var_18) : (tf_4_var_80))))))) - ((int) ((tf_4_var_96) < ((long int) (+(((int) (tf_4_var_22)) ^ ((int) (tf_4_var_58))))))))) ^ ((tf_4_struct_obj_1.member_2_6) | ((~(~(tf_4_var_88))) | (tf_4_var_86))))
+
+1881 : 2 | 1
+ if (((unsigned long long int) (~((int) (tf_1_array_6 [3].member_1_0)))) ^ (~(((((int) (~(tf_1_var_48))) ? ((unsigned long long int) (~((int) (tf_1_array_7 [2].member_2_7)))) : (((unsigned long long int) ((int) (tf_1_struct_obj_4.member_3_0))) & (14250723923547335011ULL)))) ^ ((unsigned long long int) ((int) (tf_1_array_6 [3].member_1_0))))))
+

@@ -1,0 +1,3 @@
+2339 : 2 | 1
+ tf_3_var_262 = (unsigned char) ((((((((int) (tf_3_array_2 [4])) || ((int) (tf_3_var_54))) || (!((int) (tf_3_struct_obj_2.member_2_0)))) ? ((((int) (tf_3_struct_obj_6.member_2_6)) || ((int) (-4398046511103L))) && ((int) (tf_3_array_3 [2]))) : (((int) (tf_3_var_102)) && (((int) (4398046511103L)) || ((int) (tf_3_var_56)))))) && (((((int) (tf_3_struct_obj_2.member_2_2)) || ((int) (tf_3_var_24))) && ((int) (tf_3_var_120))) || ((((int) (tf_3_var_50)) && ((int) (-4L))) && (((int) (tf_3_array_1 [3])) || ((int) (tf_3_array_4 [3])))))) && (((int) (tf_3_array_3 [2])) || (((((int) (tf_3_var_148)) || ((int) (tf_3_var_128))) && (((int) (tf_3_array_9 [2])) && ((int) (4294967295L)))) || ((int) (tf_3_var_16)))));
+

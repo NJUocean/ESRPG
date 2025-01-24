@@ -1,0 +1,6 @@
+3987 : 2 | 1
+ if ((((((((int) (tf_4_var_54)) || ((int) (0U))) || (((int) (tf_4_struct_obj_4.member_1_2)) && ((int) (4274671771U)))) ? ((int) ((tf_4_var_28) < ((unsigned int) (((((int) ((unsigned short) (4))) / ((((int) (tf_4_var_46)) + (2147483647)) >> (((int) (tf_4_var_12)) - (81)))) || ((int) (((unsigned int) (~((int) (tf_4_var_46)))) - (+(733259814U))))) << ((int) (((unsigned int) (~(-((int) ((unsigned short) (+((((int) (3)) << ((*(tf_4_ptr_1)) - (213214570U))) | ((int) ((unsigned short) (*(*(tf_4_ptr_3)))))))))))) > (((unsigned int) (((int) (tf_4_var_38)) & (-4096))) & ((4293918736U) ^ (4293918736U))))))))) : (!(((int) (tf_4_var_6)) && ((int) (*(tf_4_ptr_6))))))) || (((((int) (20295524U)) && (-512)) && ((-56) || ((int) (1U)))) && ((!((int) (tf_4_var_100))) || (!((int) (tf_4_var_62)))))) && ((int) ((unsigned int) (((int) (((int) ((56) >= ((int) (tf_4_var_118)))) < (((int) (tf_4_var_52)) << (((int) (tf_4_var_12)) - (75))))) != ((int) (tf_4_var_64))))))
+
+2997 : 2 | 1
+ signed char tf_4_var_310 = ((int) ((unsigned int) ((((((int) (tf_4_struct_obj_5.member_3_2.member_1_2)) && ((int) (tf_4_struct_obj_4.member_1_0))) ? (!((int) (*(tf_4_ptr_1)))) : ((int) ((signed char) (tf_4_var_60))))) || (!(((int) (tf_4_struct_obj_1.member_3_0)) && ((int) (1))))))) && ((int) (tf_4_var_76));
+

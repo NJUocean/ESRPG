@@ -1,0 +1,7 @@
+[0.031s] [info]: Found 682 coverage files (.gcno)
+[0.092s] [info]: Spawned 31 gcov processes, each processing at most 22 coverage files
+[4.615s] [info]: Processed 11504 .gcov files (11504 total, 0 skipped)
+[1.333s] [info]: Created lcov info file '/root/result/RQ2/gcc/Yarpgen_v2/3.info'
+[0.131s] [info]: Files Coverage: 54.15%, 594/1097
+[0.000s] [info]: Functions Coverage: 12.76%, 13616/106713
+[0.000s] [info]: Lines Coverage: 9.69%, 110011/1135757

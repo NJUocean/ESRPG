@@ -1,0 +1,3 @@
+6511 : 2 | 1
+ if ((tf_4_var_56) == ((unsigned long int) (((((int) (tf_4_var_64)) || ((int) (tf_4_var_150))) && ((int) (tf_4_var_26))) || ((int) ((tf_4_var_104) || ((int) (tf_4_var_56)))))))
+

@@ -1,0 +1,6 @@
+147 : 2 | 1
+ (*l_1844) |= ((safe_sub_func_uint32_t_u_u(l_4, (func_5(func_8((func_10((((safe_div_func_int64_t_s_s(g_18, (safe_lshift_func_int16_t_s_u(((func_21(((safe_lshift_func_int32_t_s_u((safe_rshift_func_int8_t_s_s((func_27(((*l_1395) = ((((g_32[9][2] = 0xA6C84902L) , ((g_32[9][0] > ((((*l_33) ^= (l_4 >= g_32[4][2])) <= (safe_div_func_uint32_t_u_u((g_37 = l_4), ((safe_rshift_func_int32_t_s_u(func_40(l_33, (func_45(func_51(func_54((l_65[3][0][3] = (safe_mul_func_int64_t_s_s(((g_62 = g_62) == &g_63), 0x3735CA718BA309CELL))), l_4, g_66[1], l_67[0], &g_63), g_78), l_4, l_187, g_188, g_189) , l_1207), l_187, l_4), 13)) , (*g_1002))))) && l_65[3][0][3])) ^ 0x58L)) || l_187) , 65530UL)), l_1396, l_1397, l_4) , l_1397), g_149)), 11)) > 8L)) ^ l_187) & g_994[6]), 4)))) ^ 0UL) , g_263), (*g_324), g_1536[4], g_1260, l_1397) , (**g_824))), l_1396) && g_1120[5][0][3]))) <= l_1397);
+
+150 : 0 | 1
+ lbl_1868:
+

@@ -1,0 +1,6 @@
+846 : 2 | 1
+ tf_1_array_4 [1] = (long int) (+(((((((int) (tf_1_var_210)) || ((int) (tf_1_array_5 [2].member_1_4))) ? (((int) (tf_1_var_142)) || ((int) (tf_1_var_62))) : ((tf_1_var_26) && ((int) (tf_1_var_208))))) && ((int) ((long int) (((int) (tf_1_var_176)) && ((int) (tf_1_var_28)))))) && ((((int) ((((int) (-16L)) ? ((long int) ((int) (65535))) : (16L)))) && ((int) ((long int) (-4)))) && ((int) ((unsigned short) (((int) (5391945885086948650L)) && (16)))))));
+
+814 : 2 | 1
+ tf_1_struct_obj_1.member_1_1 = (((int) ((int) (+(((int) ((unsigned short) (+((long int) (-56344))))) << (((((int) (tf_1_array_3 [2].member_1_0)) || (tf_1_struct_obj_1.member_1_2)) || ((int) ((((int) (tf_1_array_5 [5].member_1_4)) ? ((long int) (tf_1_var_86)) : (tf_1_array_5 [1].member_1_3))))) && (((((int) (tf_1_var_32)) || (tf_1_var_174)) ? (((int) (tf_1_array_3 [5].member_1_4)) && ((int) (tf_1_array_5 [4].member_1_3))) : (((tf_1_array_5 [2].member_1_1) ? ((int) (tf_1_array_5 [5].member_1_0)) : ((int) (tf_1_struct_obj_2.member_1_0))))))))))) - (18384)) + (1507);
+

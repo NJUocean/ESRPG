@@ -1,0 +1,6 @@
+474 : 1 | 0
+ return g_2092;
+
+987 : 2 | 1
+ l_1679[1] = (((*g_59) , 1L) < (((safe_add_func_int8_t_s_s((((((safe_rshift_func_uint8_t_u_u(l_1693[2], 0)) , (((***g_1334) && (((safe_mul_func_int16_t_s_s((safe_rshift_func_int64_t_s_s((**g_1352), (((void*)0 != &g_67) , 0x85367D169CD87437LL))), (safe_mul_func_int32_t_s_s(0xB45A0893L, l_1677)))) && p_12) > 0x7875L)) > 255UL)) > 0xBE19L) & 0x4C9FB73BL) && 0x205724AD27317E32LL), 0L)) & (*l_1644)) <= 0x83C7037AL));
+

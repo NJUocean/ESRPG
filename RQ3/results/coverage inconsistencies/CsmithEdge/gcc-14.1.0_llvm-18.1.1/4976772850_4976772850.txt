@@ -1,0 +1,3 @@
+322 : 2 | 1
+ if ((safe_mod_func_uint16_t_u_u/* ___REMOVE_SAFE__OP *//*0*//* ___SAFE__OP */(((l_1505 ^ 0x0E71L) == ((0xF7L >= l_2964) >= (safe_add_func_int16_t_s_s/* ___REMOVE_SAFE__OP *//*1*//* ___SAFE__OP */(((((safe_add_func_int8_t_s_s/* ___REMOVE_SAFE__OP *//*2*//* ___SAFE__OP */(((safe_sub_func_int16_t_s_s/* ___REMOVE_SAFE__OP *//*3*//* ___SAFE__OP */((((((*g_827) | (safe_rshift_func_int32_t_s_s/* ___REMOVE_SAFE__OP *//*4*//* ___SAFE__OP */(l_2[8][2], ((0x4F41BD39L | (l_2973[7] | (((safe_add_func_uint32_t_u_u/* ___REMOVE_SAFE__OP *//*5*//* ___SAFE__OP */(l_2[7][3], l_1505)) && l_2961) < l_1505))) && l_2[1][1])))) , l_2976[7]) > l_2[1][1]) , l_2[7][3]), l_2977[4][4])) < (*g_1023)), (**g_1419))) & l_2[0][2]) != l_2978) , l_2961), (-4L))))), (-1L))))
+

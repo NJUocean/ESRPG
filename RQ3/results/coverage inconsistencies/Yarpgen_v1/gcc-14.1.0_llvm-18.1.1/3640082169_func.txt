@@ -1,0 +1,6 @@
+2060 : 2 | 1
+ short tf_1_var_728 = (((int) (tf_1_var_54)) || (!((int) (((unsigned long int) (tf_1_var_6)) < (+((4UL) % (tf_1_var_48))))))) && ((int) ((long long int) ((((!((int) (2251799813685247UL))) || (((int) (tf_1_array_3 [2].member_2_0.member_1_1)) || ((int) (tf_1_array_4 [0].member_2_3.member_1_0)))) ? (!(!((int) (tf_1_var_46)))) : ((((int) (tf_1_var_54)) || (!((int) (((unsigned long int) (tf_1_var_6)) < (+((4UL) % (tf_1_var_48))))))) || (((int) (tf_1_var_54)) || (!((int) (((unsigned long int) (tf_1_var_6)) < (+((4UL) % (tf_1_var_48))))))))))));
+
+6987 : 2 | 1
+ if (((unsigned long long int) (((((int) (+(-(*(tf_4_ptr_2))))) ? ((tf_4_var_8) - ((long long int) (-((int) (tf_4_var_14))))) : ((long long int) (23435)))) - ((long long int) ((int) ((short) (((long long int) (+((int) (2)))) - ((tf_4_var_80) + ((long long int) ((int) (2)))))))))) + ((unsigned long long int) (-(-(8778913153024UL)))))
+

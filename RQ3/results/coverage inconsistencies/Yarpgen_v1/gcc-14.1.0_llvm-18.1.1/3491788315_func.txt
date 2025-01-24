@@ -1,0 +1,3 @@
+5143 : 2 | 1
+ unsigned short tf_4_var_856 = (((((((int) (tf_4_array_2 [0].member_4_1.member_3_0.member_1_0)) && ((int) (3))) || (((int) (tf_4_array_2 [0].member_4_3.member_1_2)) || ((int) (tf_4_struct_obj_3.member_3_3.member_2_0)))) || ((((int) (tf_4_array_3 [1].member_4_1.member_3_0.member_1_1)) || ((int) (tf_4_array_3 [0].member_4_1.member_3_2))) && (((int) (tf_4_var_26)) && ((int) (tf_4_struct_obj_9.member_2_5))))) ? ((int) (tf_4_var_74)) : (!((int) (tf_4_var_70))))) && ((!((int) ((unsigned short) (!((int) (tf_4_array_5 [1])))))) && (!((int) ((unsigned char) (!((int) (tf_4_struct_obj_3.member_3_3.member_2_3)))))));
+

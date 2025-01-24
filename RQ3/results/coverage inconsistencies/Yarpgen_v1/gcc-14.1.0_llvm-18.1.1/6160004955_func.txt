@@ -1,0 +1,6 @@
+4811 : 2 | 1
+ long int tf_3_var_1015 = !(((int) ((long int) (!(!((int) (tf_3_var_148)))))) || (!((int) (((((int) (tf_3_array_1 [0].member_1_0)) && ((int) (tf_3_var_136))) ? ((long int) ((tf_3_var_110) || ((int) (tf_3_var_62)))) : ((long int) (tf_3_array_1 [0].member_1_6)))))));
+
+2194 : 2 | 1
+ int tf_1_var_1116 = !(((((((int) (tf_1_struct_obj_8.member_2_3)) || ((int) (tf_1_array_2 [5].member_2_1.member_1_2))) && (((int) (tf_1_var_72)) && ((int) (tf_1_array_1 [2].member_1_0)))) ? ((int) (tf_1_var_14)) : ((((int) (1L)) && ((int) (tf_1_var_92))) && (-2)))) && ((int) (tf_1_array_2 [2].member_2_6)));
+

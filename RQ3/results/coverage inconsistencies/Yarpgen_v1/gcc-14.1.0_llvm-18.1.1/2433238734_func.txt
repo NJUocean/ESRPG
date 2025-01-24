@@ -1,0 +1,6 @@
+138 : 2 | 1
+ unsigned long long int tf_0_var_345 = ((((((int) (1ULL)) && ((int) ((((int) (tf_0_struct_obj_2.member_1_0)) ? (tf_0_array_3 [3].member_1_2) : (tf_0_array_2 [0]))))) || (((int) (3)) && (-((int) (tf_0_array_6 [4].member_1_4))))) ? (!(!((int) ((unsigned long long int) (tf_0_array_10 [0].member_1_0))))) : (!(!(((int) (8ULL)) && ((int) (tf_0_array_9 [3]))))))) && (!(!(!(-((int) (tf_0_array_6 [4].member_1_4))))));
+
+377 : 2 | 1
+ if (~(((int) ((((((int) (-17592186044409L)) && ((int) (tf_0_array_8 [1]))) || ((int) (tf_0_array_3 [6].member_1_3))) ? (tf_0_array_4 [4]) : ((unsigned long long int) ((((int) (tf_0_struct_obj_6.member_1_5)) && ((int) (tf_0_array_10 [7].member_1_4))) && (((int) (tf_0_array_6 [6].member_1_5)) || ((int) (4398046511104ULL)))))))) && ((((int) (tf_0_var_154)) || (((int) (tf_0_struct_obj_4.member_1_3)) && ((int) (-17592186044408L)))) && (((int) ((unsigned char) (*(tf_0_ptr_3)))) && ((int) (4ULL))))))
+

@@ -1,0 +1,3 @@
+942 : 2 | 1
+ tf_0_var_1011 = (long long int) ((!(((int) (((((int) (tf_0_array_8 [0].member_2_6.member_1_1)) && ((int) (tf_0_var_144))) ? ((unsigned long int) (((int) (tf_0_array_8 [3].member_2_3)) || ((int) (tf_0_struct_obj_9.member_2_6.member_1_3)))) : ((tf_0_var_38) * (+(tf_0_array_1 [2])))))) || ((int) (0UL)))) || (!(!(((!((int) (tf_0_array_8 [1].member_2_2))) ? (!((int) (0UL))) : (!((int) (tf_0_array_7 [4].member_1_0))))))));
+

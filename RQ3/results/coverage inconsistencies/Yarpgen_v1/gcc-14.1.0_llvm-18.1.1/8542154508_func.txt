@@ -1,0 +1,3 @@
+1180 : 2 | 1
+ short tf_0_var_1348 = !((!(((+(((+((int) (tf_0_var_56))) + (((int) (tf_0_var_34)) - ((int) (tf_0_var_38)))) * ((int) ((-(+(((tf_0_struct_obj_4.member_1_1) * ((unsigned long int) ((int) (tf_0_var_40)))) * ((unsigned long int) ((int) (tf_0_var_22)))))) < (tf_0_var_14))))) * ((int) ((-(+(((tf_0_struct_obj_4.member_1_1) * ((unsigned long int) ((int) (tf_0_var_40)))) * ((unsigned long int) ((int) (tf_0_var_22)))))) < (tf_0_var_14)))) || ((int) (tf_0_var_170)))) || ((((!((int) (tf_0_var_146))) || (((int) (tf_0_var_154)) && ((int) (tf_0_var_178)))) ? (!(((int) (tf_0_var_126)) || ((int) (*(tf_0_ptr_179))))) : (!((int) (tf_0_var_112))))));
+

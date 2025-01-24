@@ -1,0 +1,3 @@
+6060 : 2 | 1
+ tf_4_var_511 = (unsigned int) ((+((tf_4_var_50) - ((long long int) ((int) ((*(tf_4_ptr_7)) <= (((long long int) (tf_4_var_76)) / (-3LL))))))) > ((long long int) (((long int) (((int) (((((int) (tf_4_array_2 [4])) && ((int) (tf_4_struct_obj_2.member_2_5.member_1_1))) ? ((((int) (tf_4_var_138)) ? ((long long int) (tf_4_var_76)) : (-562949953421311LL))) : ((long long int) ((unsigned int) (*(tf_4_ptr_7))))))) && (((int) (tf_4_var_108)) && (((int) (-16LL)) || ((int) (8L)))))) * (((long int) (~((unsigned int) (-16LL)))) | ((long int) (~(tf_4_struct_obj_3.member_2_0)))))));
+

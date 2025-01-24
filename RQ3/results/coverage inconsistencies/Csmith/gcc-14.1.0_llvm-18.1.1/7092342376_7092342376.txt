@@ -1,0 +1,3 @@
+266 : 2 | 1
+ (*g_777) = func_16(((safe_mul_func_uint32_t_u_u(l_3651[7], (*l_35))) , ((safe_lshift_func_int8_t_s_s((((((((*l_35) > (safe_sub_func_int64_t_s_s((((**g_705) > ((((l_3656 <= (**g_705)) != (safe_rshift_func_int16_t_s_u((*g_2929), 14))) , (safe_mul_func_int64_t_s_s((*g_2694), (safe_mul_func_uint8_t_u_u((*l_35), (**g_308)))))) , (*l_35))) < (*l_35)), 1L))) < 0x5B4DB29D616F9455LL) || (*g_3330)) , 0x1063D567L) && l_3663) , 0x57L), (**g_308))) | g_3664[0])), l_3369, (*g_944), (*g_3594));
+

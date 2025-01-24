@@ -1,0 +1,3 @@
+809 : 2 | 1
+ signed char tf_1_var_257 = !((((((int) ((unsigned short) (tf_1_array_4 [6]))) || (!((int) (tf_1_var_66)))) ? (((int) ((((int) (tf_1_array_5 [2])) ? (tf_1_var_60) : ((unsigned long int) ((int) (tf_1_var_86)))))) && (((int) (tf_1_var_84)) && ((int) (tf_1_var_18)))) : ((!((int) (tf_1_var_126))) && (((int) (*(tf_1_ptr_9))) || ((int) (tf_1_var_92)))))) && (!((((int) (tf_1_array_2 [3])) || ((int) (*(tf_1_ptr_3)))) && (((int) (tf_1_array_4 [1])) && ((int) (*(tf_1_ptr_9)))))));
+

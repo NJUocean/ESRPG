@@ -1,0 +1,6 @@
+3256 : 2 | 1
+ tf_2_array_5 [6] = (long int) (+(-((tf_2_var_122) && (((((int) (tf_2_var_158)) || ((int) (tf_2_array_1 [6]))) ? ((int) (((long int) ((int) (tf_2_var_142))) > (tf_2_struct_obj_7.member_1_1))) : ((int) ((unsigned short) (tf_2_var_30))))))));
+
+3079 : 2 | 1
+ unsigned short tf_2_var_739 = (((((((int) (tf_2_var_182)) || (tf_2_var_40)) ? (((int) (tf_2_var_104)) && ((int) (tf_2_array_2 [3]))) : (!((int) (tf_2_var_136))))) && ((((int) (tf_2_array_2 [0])) && ((int) (tf_2_var_160))) || ((tf_2_var_146) && ((int) (tf_2_array_2 [1]))))) && (((int) (-(tf_2_array_4 [4]))) && ((((int) (*(*(tf_2_ptr_70)))) || (-4)) && ((tf_2_var_78) || ((int) (0L)))))) || ((int) (-(tf_2_array_4 [4])));
+

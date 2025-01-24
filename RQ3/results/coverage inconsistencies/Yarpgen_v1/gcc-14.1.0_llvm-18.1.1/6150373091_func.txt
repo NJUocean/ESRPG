@@ -1,0 +1,3 @@
+6611 : 2 | 1
+ long int tf_4_var_1066 = (unsigned long long int) (((((((int) (tf_4_array_1 [2].member_1_3)) && (-65)) || (!((int) (tf_4_array_3 [6].member_1_1)))) ? (!(!((int) (tf_4_array_3 [7].member_1_0)))) : (((int) (18446744007137558527ULL)) && (((int) (tf_4_struct_obj_6.member_1_0)) && ((int) (*(tf_4_ptr_8))))))) && ((int) (tf_4_array_4 [0])));
+

@@ -1,0 +1,3 @@
+3921 : 2 | 1
+ unsigned long int tf_3_var_506 = ((int) ((unsigned long int) ((unsigned char) (((((int) (tf_3_var_54)) || ((int) (tf_3_struct_obj_5.member_1_0))) ? (((int) (tf_3_var_42)) || ((int) (tf_3_var_4))) : (((int) (tf_3_var_20)) && ((int) (9862372148674578857UL)))))))) && (((int) ((unsigned int) (tf_3_var_16))) && (!((int) ((unsigned long int) (((int) (2470188226U)) && ((int) (tf_3_var_6)))))));
+

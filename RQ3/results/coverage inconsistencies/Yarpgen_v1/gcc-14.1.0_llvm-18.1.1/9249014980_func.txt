@@ -1,0 +1,6 @@
+4845 : 2 | 1
+ if ((*(tf_3_ptr_11)) <= ((long int) ((((((int) ((((int) (tf_3_array_2 [0])) ? (tf_3_var_86) : (tf_3_array_6 [6])))) || ((int) (tf_3_var_164))) ? ((!((int) (tf_3_var_124))) && ((int) (tf_3_var_164))) : ((((int) (0L)) && ((int) (tf_3_var_156))) || (((int) (8)) && ((int) (tf_3_var_86)))))) || (!((((int) (17587891077120ULL)) || ((int) (tf_3_var_36))) && (((int) (1ULL)) && ((int) (16ULL))))))))
+
+3752 : 2 | 1
+ long int tf_2_var_906 = ((((((int) ((unsigned short) (tf_2_var_82))) || ((int) ((((int) (1)) ? ((unsigned long long int) ((int) (tf_2_var_134))) : (tf_2_struct_obj_7.member_1_3))))) ? ((!((int) (tf_2_var_172))) && (((int) (8394896882851200118ULL)) && (-65505))) : (((int) (tf_2_struct_obj_1.member_5_0.member_1_4)) && (((int) (tf_2_struct_obj_6.member_2_1.member_1_0)) && ((int) (tf_2_var_150)))))) || ((((int) (tf_2_var_80)) || (((int) (*(tf_2_ptr_10))) && ((int) (tf_2_struct_obj_8.member_6_7)))) && ((((int) (8ULL)) || ((int) (tf_2_struct_obj_5.member_1_3))) && (((int) (tf_2_struct_obj_5.member_1_3)) || ((int) (*(tf_2_ptr_7))))))) * (((int) (4)) || (((((int) (8394896882851200118ULL)) && ((int) (tf_2_var_120))) || ((int) (tf_2_struct_obj_5.member_1_1))) && ((int) (16L))));
+

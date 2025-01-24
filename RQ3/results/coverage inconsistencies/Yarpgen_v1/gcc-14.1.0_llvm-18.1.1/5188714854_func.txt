@@ -1,0 +1,3 @@
+4593 : 2 | 1
+ if (((int) ((unsigned short) (+((int) ((signed char) (((((int) (tf_4_var_62)) & ((int) (tf_4_struct_obj_2.member_1_4))) & ((int) (tf_4_var_62))) | (((int) (1)) & (~((int) (tf_4_var_56)))))))))) + ((int) ((signed char) ((((+((int) (tf_4_array_6 [1].member_4_4))) + (-((int) (tf_4_var_66)))) ? (((int) (tf_4_struct_obj_1.member_5_2.member_3_0)) - (+((int) ((signed char) (((((int) (tf_4_var_62)) & ((int) (tf_4_struct_obj_2.member_1_4))) & ((int) (tf_4_var_62))) | (((int) (1)) & (~((int) (tf_4_var_56))))))))) : (((-((int) (tf_4_array_2 [1].member_3_1))) ? (-((int) (tf_4_var_132))) : (+((int) (3))))))))))
+
