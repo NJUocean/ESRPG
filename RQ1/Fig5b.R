@@ -53,8 +53,6 @@ Y1F <- data.frame(ratio = valueY1F[[colname1]] / valueY1F[[colname2]], technique
 Y1D <- data.frame(ratio = valueY1D[[colname1]] / valueY1D[[colname2]], technique = "Y-driver")
 Y2F <- data.frame(ratio = valueY2F[[colname1]] / valueY2F[[colname2]], technique = "Y2-func")
 Y2D <- data.frame(ratio = valueY2D[[colname1]] / valueY2D[[colname2]], technique = "Y2-driver")
-# Y1 <- data.frame(ratio = (valueY1F[[colname1]]+valueY1D[[colname1]]) / (valueY1F[[colname2]]+valueY1D[[colname2]]), technique = "YARPGen")
-# Y2 <- data.frame(ratio = (valueY2F[[colname1]]+valueY2D[[colname1]]) / (valueY2F[[colname2]]+valueY2D[[colname2]]), technique = "YARPGen v.2")
 
 
 all <- rbind(CD, CE, CH, Y1F, Y1D, Y2F, Y2D)
@@ -84,8 +82,7 @@ all[all$technique == "Y-func", ]$rank = sk$groups[["Y1F"]]
 all[all$technique == "Y-driver", ]$rank = sk$groups[["Y1D"]]
 all[all$technique == "Y2-func", ]$rank = sk$groups[["Y2F"]]
 all[all$technique == "Y2-driver", ]$rank = sk$groups[["Y2D"]]
-#all[all$technique == "YARPGen", ]$rank = sk$groups[["Y1"]]
-#all[all$technique == "YARPGen v.2", ]$rank = sk$groups[["Y2"]]
+
 
 #plot
 ggplot(all, aes(x = reorder(technique, -ratio, FUN = median), y = ratio)) +
@@ -98,7 +95,6 @@ ggplot(all, aes(x = reorder(technique, -ratio, FUN = median), y = ratio)) +
     axis.text.x = element_text(
       angle = -40,          
       hjust = 0.5,          
-      #family = "Times New Roman",
       size = 24             
     ),
     axis.text.y = element_text(

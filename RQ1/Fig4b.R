@@ -50,13 +50,9 @@ CE <- data.frame(value = valueCE[[colnames]], technique = "CsmithEdge")
 CH <- data.frame(value = valueCH[[colnames]], technique = "Csmith-HiCOND")
 Y1F <- data.frame(value = valueY1F[[colnames]], technique = "Y-func")
 Y1D <- data.frame(value = valueY1D[[colnames]], technique = "Y-driver")
-#Y1 <- data.frame(value = valueY1F[[colnames]]+valueY1D[[colnames]], technique = "YARPGen")
 Y2F <- data.frame(value = valueY2F[[colnames]], technique = "Y2-func")
 Y2D <- data.frame(value = valueY2D[[colnames]], technique = "Y2-driver")
-#Y2 <- data.frame(value = valueY2F[[colnames]]+valueY2D[[colnames]], technique = "YARPGen v.2")
 
-
-# all <- rbind(CD, CE, CH, Y1F, Y1D, Y2F, Y2D,Y1,Y2)
 all <- rbind(CD, CE, CH, Y1F, Y1D, Y2F, Y2D)
 
 
@@ -67,8 +63,6 @@ result <- data.frame(
   CH = CH$value,
   Y1F = Y1F$value,
   Y1D = Y1D$value,
-  #Y1 = Y1$value,
-  #Y2 = Y2$value,
   Y2F = Y2F$value,
   Y2D = Y2D$value
 )
@@ -83,8 +77,6 @@ all[all$technique == "Y-func", ]$rank = sk$groups[["Y1F"]]
 all[all$technique == "Y-driver", ]$rank = sk$groups[["Y1D"]]
 all[all$technique == "Y2-func", ]$rank = sk$groups[["Y2F"]]
 all[all$technique == "Y2-driver", ]$rank = sk$groups[["Y2D"]]
-#all[all$technique == "YARPGen", ]$rank = sk$groups[["Y1"]]
-#all[all$technique == "YARPGen v.2", ]$rank = sk$groups[["Y2"]]
 
 #plot
 ggplot(all, aes(x = reorder(technique, -value, FUN = median), y = value)) +
@@ -97,7 +89,6 @@ ggplot(all, aes(x = reorder(technique, -value, FUN = median), y = value)) +
     axis.text.x = element_text(
       angle = -40,          
       hjust = 0.5,          
-      #family = "Times New Roman",
       size = 24             
     ),
     axis.text.y = element_text(

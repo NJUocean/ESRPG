@@ -19,14 +19,9 @@ def calculate_common_columns(dataframes):
 
 
 fuzzers = ["Csmith", "CsmithEdge", "Hicond", "Yarpgen_v1", "Yarpgen_v2"]
-# fuzzers = ["Csmith"]
 path = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(path, "metrics")
-
-items = [
-    "Cov_Percent"
-]
-
+items = ["Cov_Percent"]
 
 labels = [
     "Csmith",
@@ -38,8 +33,6 @@ labels = [
     "Y2-driver"
 ]
 
-
-
 colors = [
  [0.03892374631199824, 0.22215416638333962, 0.2146292097999376], 
  [0.10544235879053843, 0.41220704827933863, 0.08283568783823614],
@@ -49,8 +42,6 @@ colors = [
  [0.6786347190644018, 0.40647669953174037, 0.6293543349959105],
  [0.136798093648127, 0.6961856471716872, 0.811341910113077],
  ]
-
-
 
 
 def main():
@@ -76,20 +67,11 @@ def main():
         for d in datas:
             data.append(d[name].values)
 
-
-        # 创建figure和axes对象
         fig, ax = plt.subplots(figsize=(10, 5))
-        # 设置背景透明
         fig.patch.set_alpha(0)
-
         positions = np.arange(1, len(data) * 3 + 1, 3)
-
-        # 绘制彩色小提琴图
         vp_parts = ax.violinplot(data, positions=positions, showmeans=False, showmedians=True, widths=2.0)
-        # for pc in vp_parts["bodies"]:
-        #     tmp=[random.random(), random.random(), random.random()]
-        #     print(tmp)
-        #     pc.set_facecolor(tmp)
+
 
         for i, pc in enumerate(vp_parts["bodies"]):
             pc.set_facecolor(colors[i % len(colors)])
@@ -98,7 +80,7 @@ def main():
             if line in vp_parts.keys():
                 vp_parts[line].set_color((0, 0, 0, 0))
 
-        # 绘制箱线图，并调整位置使其与小提琴图对应
+        # plot
         bp_parts = ax.boxplot(
             data,
             positions=positions,
@@ -111,19 +93,15 @@ def main():
         for median in bp_parts["medians"]:
             median.set(color="black", linewidth=1.5)
 
-
-        # 设置x轴刻度标签
         ax.set_xticks(positions)
         ax.set_xticklabels(labels, rotation=-15,fontsize=12)
         ax.set_yticklabels(ax.get_yticks(), fontsize=12)
 
-        # 显示网格线
         ax.yaxis.grid(True, linestyle="--", alpha=0.7)
 
         plt.tight_layout()
         plt.savefig(os.path.join(path,"Fig6.pdf"), format="pdf")
-        # 显示图表
-        plt.show()
+
 
 
 if __name__ == "__main__":
