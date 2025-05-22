@@ -1,3 +1,0 @@
-773 : 2 | 1
- short tf_3_var_508 = (((((int) ((unsigned char) (tf_3_var_156))) && (!((int) (tf_3_var_62)))) && (!((-16) || ((int) (-512LL))))) || (((((int) (tf_3_var_226)) || ((int) (*(tf_3_ptr_9)))) || (((int) (tf_3_var_42)) || ((int) (tf_3_var_150)))) || (((((int) (tf_3_var_106)) || ((int) (tf_3_var_210))) ? (((int) (tf_3_var_106)) && ((int) (tf_3_var_18))) : (!((int) (512LL))))))) && ((!(((((int) (tf_3_var_10)) && ((int) (tf_3_var_110))) ? (!((int) (tf_3_var_148))) : (!((int) (tf_3_var_28)))))) && ((int) (tf_3_var_198)));
-

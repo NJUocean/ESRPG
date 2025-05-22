@@ -1,3 +1,0 @@
-874 : 2 | 1
- unsigned int tf_0_var_1002 = (((int) (*(tf_0_ptr_1))) && (((((int) (*(tf_0_ptr_5))) && ((int) (tf_0_var_34))) || ((int) ((unsigned int) (4)))) || (((((int) (*(tf_0_ptr_9))) ? ((int) (*(tf_0_ptr_6))) : (57))) && ((-107) || (107))))) && ((((((int) ((unsigned int) (tf_0_var_40))) || ((int) (tf_0_var_18))) ? ((((int) (*(tf_0_ptr_10))) || ((int) (*(tf_0_ptr_8)))) || (((int) (tf_0_var_32)) || ((int) (tf_0_var_90)))) : (((int) (tf_0_var_62)) && (((int) (4)) || (-107))))) && (((((int) (2)) || ((int) (tf_0_var_106))) && (((int) (tf_0_var_104)) && ((int) (tf_0_var_128)))) && ((((int) (tf_0_var_70)) || (87)) || (!(-57)))));
-

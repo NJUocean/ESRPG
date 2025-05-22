@@ -1,3 +1,0 @@
-1781 : 2 | 1
- tf_1_struct_obj_10.member_2_4 = (signed char) (((int) ((short) ((!((int) ((unsigned char) (tf_1_var_16)))) * ((((int) ((+((int) (tf_1_struct_obj_6.member_2_5))) != (((int) (16)) - ((int) ((signed char) ((127) << ((int) (16)))))))) >> ((int) ((short) (((int) ((((int) (2)) / (127)) != ((int) (tf_1_var_26)))) && (+(~((int) (0)))))))) * (((int) (tf_1_array_1 [5])) * ((int) (tf_1_var_8))))))) == (((((((int) (tf_1_array_2 [4])) && ((int) (tf_1_struct_obj_5.member_1_2))) ? ((int) ((unsigned char) (tf_1_array_2 [1]))) : ((int) (((int) (tf_1_struct_obj_4.member_2_0.member_1_0)) == ((int) (tf_1_var_110)))))) && (((int) ((4096) != ((int) (tf_1_struct_obj_2.member_2_1)))) && ((int) (((int) (tf_1_var_86)) != ((int) (4)))))) && (-32768)));
-

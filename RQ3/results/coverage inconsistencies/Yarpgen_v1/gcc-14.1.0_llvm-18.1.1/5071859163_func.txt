@@ -1,3 +1,0 @@
-1589 : 2 | 1
- unsigned char tf_2_var_444 = (!((int) ((unsigned char) (((int) (tf_2_var_60)) << ((tf_2_var_436) >> (((int) (tf_2_array_2 [0])) - (145))))))) >= (((int) (*(tf_2_ptr_2))) && ((((((int) (tf_2_var_36)) && ((int) (tf_2_var_54))) ? ((int) ((unsigned char) (tf_2_var_54))) : (!((int) (tf_2_array_5 [2]))))) && (((int) ((unsigned char) (tf_2_var_432))) || (((int) (*(tf_2_ptr_54))) && ((int) (tf_2_array_2 [3]))))));
-

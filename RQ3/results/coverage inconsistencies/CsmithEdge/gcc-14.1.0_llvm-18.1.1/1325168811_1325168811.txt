@@ -1,3 +1,0 @@
-567 : 2 | 1
- (**g_452) = (((safe_lshift_func_uint16_t_u_s/* ___REMOVE_SAFE__OP *//*72*//* ___SAFE__OP */((&g_718 == &g_718), 1)) && (((p_35 , ((l_1062 < (((safe_rshift_func_uint16_t_u_s/* ___REMOVE_SAFE__OP *//*73*//* ___SAFE__OP */((l_1076 = (safe_rshift_func_uint64_t_u_u/* ___REMOVE_SAFE__OP *//*74*//* ___SAFE__OP */(((safe_sub_func_uint8_t_u_u/* ___REMOVE_SAFE__OP *//*75*//* ___SAFE__OP */((safe_sub_func_uint32_t_u_u/* ___REMOVE_SAFE__OP *//*76*//* ___SAFE__OP */((((((***g_858) &= (safe_mod_func_uint64_t_u_u/* ___REMOVE_SAFE__OP *//*77*//* ___SAFE__OP */((l_1073 == l_1074), p_36))) , &g_859) == l_1075) != l_1062), p_35)), 0x0DL)) , (*g_12)), 23))), p_36)) && 0x5EL) < 1UL)) && l_1076)) && 0xB57C95E6L) | 18446744073709551614UL)) , (void*)0);
-

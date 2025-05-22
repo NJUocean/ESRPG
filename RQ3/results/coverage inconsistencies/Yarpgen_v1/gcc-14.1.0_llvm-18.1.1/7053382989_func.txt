@@ -1,3 +1,0 @@
-1034 : 2 | 1
- int tf_2_var_252 = +(((!(!((int) (tf_2_var_70)))) || ((!((int) (tf_2_var_122))) && (!((int) (1455925377U))))) && ((int) ((unsigned long long int) ((((((int) (tf_2_var_82)) ? (4) : (*(tf_2_ptr_3)))) ? ((tf_2_struct_obj_5.member_1_1) || ((int) (tf_2_var_134))) : (((int) (tf_2_struct_obj_5.member_1_4)) || (*(*(tf_2_ptr_10)))))))));
-

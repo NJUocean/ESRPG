@@ -1,6 +1,0 @@
-1099 : 2 | 1
- if ((unsigned char) ((((((int) (*(tf_0_ptr_10))) || ((int) (tf_0_struct_obj_3.member_2_5))) || (((int) (tf_0_var_78)) || ((int) (tf_0_var_68)))) && ((int) (tf_0_var_80))) && (!((!((int) (tf_0_var_134))) || (!(((int) ((unsigned short) (((-46768) || ((int) (0))) || (~(-15))))) || ((-30721) && (!(!((int) (32767)))))))))))
-
-4123 : 2 | 1
- if (!(((!(((int) (4)) || ((int) (0)))) || ((int) ((unsigned short) (((int) (tf_2_var_28)) || ((int) (tf_2_array_3 [3].member_5_1)))))) && ((!((-64952) || ((int) (tf_2_var_130)))) || ((((int) (tf_2_var_164)) || ((int) (tf_2_array_6 [4].member_3_1.member_1_0))) && ((!((!(((int) (tf_2_array_2 [3].member_5_5)) || ((int) (tf_2_array_2 [3].member_5_3)))) && ((!((int) (tf_2_var_44))) && (!((int) (tf_2_var_2)))))) || ((((!((int) (tf_2_struct_obj_2.member_5_4))) && ((((int) (tf_2_var_30)) ? ((int) (tf_2_var_18)) : ((int) (tf_2_var_46))))) && (!(((int) (tf_2_var_96)) || ((int) (tf_2_struct_obj_1.member_3_2.member_2_0.member_1_1))))) && ((int) (tf_2_var_4))))))))
-

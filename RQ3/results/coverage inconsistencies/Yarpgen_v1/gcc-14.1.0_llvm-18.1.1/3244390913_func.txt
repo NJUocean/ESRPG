@@ -1,3 +1,0 @@
-3045 : 2 | 1
- tf_3_var_140 = (unsigned long int) ((long int) ((!((int) (((long int) ((((int) (-8L)) ? ((unsigned long int) (8L)) : ((2UL) * ((unsigned long int) (-1L)))))) + ((long int) (~((long int) (tf_3_struct_obj_4.member_3_5.member_1_2))))))) || (((int) ((((tf_3_var_66) && ((int) (tf_3_struct_obj_2.member_2_1))) ? ((long int) (((tf_3_var_122) ? (tf_3_var_122) : (tf_3_var_8)))) : ((long int) (2443603939337153575L))))) && ((((int) ((unsigned long int) (tf_3_var_64))) ? (!(tf_3_var_118)) : (((int) (tf_3_var_62)) || (tf_3_var_48)))))));
-

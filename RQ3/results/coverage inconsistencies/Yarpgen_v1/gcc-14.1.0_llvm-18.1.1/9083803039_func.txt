@@ -1,3 +1,0 @@
-665 : 2 | 1
- tf_2_var_112 = (unsigned char) ((-((((int) (tf_2_struct_obj_5.member_4_1)) && ((int) (~(tf_2_var_8)))) && ((((tf_2_array_8 [2].member_4_2.member_3_3) && ((int) (tf_2_array_2 [5]))) ? ((tf_2_array_8 [3].member_4_4.member_2_2.member_1_0) || ((int) (tf_2_array_9 [2].member_4_7))) : (!((int) (tf_2_array_2 [5]))))))) | ((int) (tf_2_array_8 [4].member_4_5)));
-

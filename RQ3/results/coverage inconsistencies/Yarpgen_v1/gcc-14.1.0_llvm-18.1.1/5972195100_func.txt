@@ -1,3 +1,0 @@
-3518 : 2 | 1
- if (((!((int) ((((((int) (tf_2_struct_obj_2.member_2_1.member_1_4)) && ((int) ((+((int) (*(tf_2_ptr_2)))) <= ((int) ((tf_2_var_12) != (tf_2_var_62)))))) || (~((~((int) (0))) & (((int) (*(tf_2_ptr_3))) >> (((int) (tf_2_array_4 [0].member_1_2)) - (207)))))) ? (tf_2_var_10) : ((unsigned long long int) (+((((int) (tf_2_var_62)) || ((int) ((unsigned char) (0ULL)))) && (!(!(-254)))))))))) && (!(!((int) ((unsigned char) (-64)))))) || (!(!((int) ((signed char) (*(tf_2_ptr_7)))))))
-

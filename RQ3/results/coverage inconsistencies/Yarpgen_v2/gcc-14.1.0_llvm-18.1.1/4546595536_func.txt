@@ -1,3 +1,0 @@
-218 : 1764 | 882
- if (((/* implicit */_Bool) min((((((/* implicit */_Bool) arr_70 [i_20 + 2])) ? (((/* implicit */int) arr_70 [i_20 + 1])) : (((/* implicit */int) arr_70 [i_20 + 2])))), (((/* implicit */int) arr_73 [i_20 - 2])))))
-

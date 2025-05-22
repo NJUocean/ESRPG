@@ -1,3 +1,0 @@
-870 : 2 | 1
- if ((((*l_902) = ((*l_901) = 246UL)) == (safe_rshift_func_int32_t_s_s((safe_add_func_uint64_t_u_u(((p_54 , ((*l_921) = (safe_add_func_int64_t_s_s((safe_lshift_func_uint32_t_u_s((**l_815), (safe_add_func_uint64_t_u_u(((l_853 , (g_913 , ((((((!((l_597 = (p_55 | (g_480[0] , (l_860[2][2] = p_53)))) && (((((*l_918) ^= ((*l_917) |= 0x6027F938DED0FA3CLL)) | (**l_815)) || (**l_815)) >= l_852))) , 0xAE20L) , (void*)0) == (void*)0) && (-3L)) || 0UL))) , p_54), p_55)))), p_54)))) ^ p_53), l_858)), p_55))))
-

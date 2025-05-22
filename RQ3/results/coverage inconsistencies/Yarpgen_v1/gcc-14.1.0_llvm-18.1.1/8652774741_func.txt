@@ -1,3 +1,0 @@
-3918 : 2 | 1
- unsigned short tf_4_var_898 = (((((int) (((((int) (tf_4_var_124)) || ((int) (tf_4_var_128))) ? ((unsigned int) (!((int) (tf_4_var_86)))) : ((((int) (tf_4_var_138)) ? (tf_4_var_74) : ((unsigned int) ((int) (tf_4_var_88)))))))) && ((((int) (tf_4_var_116)) || ((int) (8388607U))) || (((int) (tf_4_var_134)) && ((int) (tf_4_var_120))))) || (((!(((int) (tf_4_var_48)) || ((int) (tf_4_var_16)))) ? ((((int) (tf_4_var_34)) && ((int) (16))) || (((int) (tf_4_var_40)) && ((int) (tf_4_var_128)))) : ((int) ((unsigned short) (((int) (8U)) && ((int) (tf_4_var_122)))))))) ? ((!(!((int) (8U)))) && ((int) (tf_4_var_134))) : (!(((!((int) (tf_4_var_892))) && (!((int) (*(tf_4_ptr_6))))) || ((int) (tf_4_var_80)))));
-

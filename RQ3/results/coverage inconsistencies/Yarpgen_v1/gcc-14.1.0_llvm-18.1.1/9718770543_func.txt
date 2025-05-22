@@ -1,3 +1,0 @@
-5355 : 2 | 1
- tf_4_var_106 = (long long int) (((unsigned long long int) ((((((int) (tf_4_var_66)) && ((int) (tf_4_struct_obj_6.member_1_1))) && ((int) ((long int) (tf_4_var_42)))) && ((((int) (8L)) || ((int) (tf_4_var_86))) || (((int) (tf_4_struct_obj_3.member_1_1)) || ((int) (tf_4_var_74))))) && ((((((int) (tf_4_array_1 [2].member_1_3)) || ((int) (tf_4_struct_obj_4.member_1_3))) ? (((int) (tf_4_var_132)) || ((int) (0ULL))) : (((int) (tf_4_var_28)) || ((int) (tf_4_array_1 [0].member_1_1))))) && (!(((int) (11058360674985471686ULL)) && ((int) (tf_4_array_1 [0].member_1_1))))))) >= (((unsigned long long int) (((unsigned long long int) ((1L) * (16L))) * (+(3ULL)))) * ((16ULL) * ((unsigned long long int) ((+(16L)) * (+(3L)))))));
-

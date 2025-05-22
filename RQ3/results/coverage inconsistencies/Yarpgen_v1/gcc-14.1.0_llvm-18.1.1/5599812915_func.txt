@@ -1,3 +1,0 @@
-1443 : 2 | 1
- int tf_3_var_317 = (((int) ((((int) ((((int) (tf_3_var_138)) ? ((-2L) ^ (tf_3_var_140)) : ((tf_3_array_2 [6]) | ((long int) (-8)))))) ? (((long int) ((int) (tf_3_var_94))) | (~(tf_3_array_5 [2]))) : ((long int) (tf_3_var_172))))) && ((int) (((long int) (+((int) (tf_3_var_50)))) > ((long int) ((int) ((unsigned char) ((long int) (3)))))))) >> (((*(tf_3_ptr_11)) | (~(((tf_3_var_88) ^ (16L)) ^ (((long int) (tf_3_var_56)) ^ (*(tf_3_ptr_2)))))) + (5557512378452936027L));
-

@@ -1,3 +1,0 @@
-1398 : 2 | 1
- unsigned char tf_0_var_1614 = (unsigned int) (((int) ((unsigned char) (((tf_0_array_1 [2].member_1_0) * (tf_0_var_54)) - ((unsigned int) ((int) (((unsigned int) ((int) (tf_0_array_7 [0].member_1_2))) > (tf_0_array_3 [4]))))))) && ((int) ((((int) ((unsigned int) (((int) (tf_0_array_3 [9])) && ((int) (tf_0_array_1 [4].member_1_3))))) ? ((long int) ((int) (((long int) ((tf_0_var_124) & (tf_0_array_8 [5].member_1_0))) != (((long int) (tf_0_array_4 [0].member_1_0)) / (tf_0_array_10 [5].member_1_3))))) : ((long int) ((unsigned char) (tf_0_struct_obj_1.member_2_9.member_1_1)))))));
-

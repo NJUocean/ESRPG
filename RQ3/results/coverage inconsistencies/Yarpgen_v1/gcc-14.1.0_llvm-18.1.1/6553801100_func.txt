@@ -1,6 +1,0 @@
-3129 : 2 | 1
- tf_3_var_750 = (unsigned short) (((int) ((unsigned short) ((((((int) (tf_3_var_70)) || ((int) (tf_3_struct_obj_1.member_1_6))) ? ((int) (((unsigned long long int) (-4283428478238798800LL)) == ((unsigned long long int) (tf_3_struct_obj_9.member_1_3)))) : (((int) (tf_3_var_14)) || ((int) (tf_3_var_186))))) || ((int) (+(tf_3_var_102)))))) % (~(((int) (((*(tf_3_ptr_13)) - (tf_3_struct_obj_6.member_1_2)) == ((long long int) ((int) (tf_3_struct_obj_8.member_1_4))))) || (((int) ((tf_3_struct_obj_6.member_1_0) * (tf_3_var_86))) || ((int) (tf_3_var_52))))));
-
-3819 : 2 | 1
- unsigned long int tf_4_var_506 = (((((((int) (tf_4_struct_obj_4.member_4_8.member_3_0)) && ((int) (tf_4_var_54))) ? ((int) ((unsigned short) (tf_4_struct_obj_4.member_4_4.member_3_4))) : ((-43812) && ((int) (tf_4_var_422))))) && ((int) (tf_4_var_86))) && (((int) (tf_4_struct_obj_4.member_4_1)) && (((int) ((unsigned long int) (tf_4_struct_obj_1.member_4_4.member_3_6))) || (((int) (tf_4_struct_obj_1.member_4_1)) || ((int) (tf_4_struct_obj_4.member_4_4.member_3_6)))))) && (((int) (3)) && (((((int) ((-9223372036854775807LL - 1LL))) || ((int) (2041560422492901539UL))) && (((int) (tf_4_var_76)) || ((int) (14411518807585587199UL)))) && ((int) (11528962696110473916UL))));
-

@@ -1,3 +1,0 @@
-20 : 2 | 1
- signed char tf_0_var_212 = (((int) ((((int) ((unsigned long int) (((int) (tf_0_array_3 [1].member_1_3)) || ((int) (tf_0_array_1 [3].member_1_0))))) ? (tf_0_var_60) : ((long long int) ((+(+(((int) (tf_0_var_2)) && ((int) (~((unsigned long int) (*(tf_0_ptr_4)))))))) && ((int) (tf_0_var_110))))))) && ((int) ((signed char) ((((int) (tf_0_var_108)) || ((int) (tf_0_var_36))) && ((int) ((unsigned long int) (tf_0_array_1 [0].member_1_4))))))) || (!((int) (8102224734737273332UL)));
-

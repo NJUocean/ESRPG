@@ -1,3 +1,0 @@
-1765 : 2 | 1
- int tf_2_var_828 = (((((!((int) (tf_2_var_144))) || (!((int) (tf_2_var_166)))) && (((int) (((tf_2_var_162) ? (tf_2_var_10) : ((unsigned int) (tf_2_var_42))))) || (((int) (tf_2_var_66)) && (tf_2_var_56)))) ? (((0) && (((int) (tf_2_var_94)) || ((int) (((unsigned long int) (((unsigned int) (tf_2_var_88)) / (~(~(tf_2_var_82))))) - (~(((unsigned long int) (-(tf_2_var_2))) ^ (-(tf_2_var_28)))))))) || ((!((int) (tf_2_var_16))) && (!(tf_2_var_142)))) : (((int) ((unsigned int) ((int) (*(tf_2_ptr_6))))) && ((int) ((unsigned long int) (tf_2_var_16)))))) || (!(!(!((int) (tf_2_var_188)))));
-

@@ -1,3 +1,0 @@
-4306 : 2 | 1
- unsigned long long int tf_3_var_237 = ((unsigned long long int) ((((((int) ((unsigned char) (tf_3_struct_obj_1.member_1_3))) && ((int) ((signed char) (tf_3_struct_obj_3.member_2_2.member_1_1)))) ? ((((int) (((unsigned long long int) ((int) ((signed char) (~(112))))) != (((unsigned long long int) ((signed char) (112))) ^ ((unsigned long long int) (+(((113) ? (113) : (-113)))))))) >> (+(!((-((int) (4))) ^ ((int) ((unsigned char) (4))))))) && ((int) ((signed char) (tf_3_struct_obj_3.member_2_2.member_1_1)))) : (!(!((int) (tf_3_var_100)))))) && (!((int) ((unsigned long long int) ((((int) (tf_3_array_5 [2].member_1_1)) ? (tf_3_var_48) : ((unsigned long long int) ((int) (tf_3_var_32)))))))))) != (tf_3_array_6 [2]);
-

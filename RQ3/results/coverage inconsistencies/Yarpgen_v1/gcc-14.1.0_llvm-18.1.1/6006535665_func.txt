@@ -1,3 +1,0 @@
-1341 : 2 | 1
- int tf_1_var_499 = (!(((((tf_1_var_98) || ((int) (tf_1_var_483))) ? (((int) (8U)) && ((int) (tf_1_var_82))) : (((int) (tf_1_var_50)) && (tf_1_array_5 [1])))) && ((((int) (3U)) || ((int) (tf_1_var_6))) && ((int) ((unsigned int) (tf_1_var_130)))))) && (((int) ((signed char) (tf_1_var_34))) || ((int) ((signed char) ((int) (+(-(tf_1_var_6)))))));
-

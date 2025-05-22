@@ -1,3 +1,0 @@
-5913 : 2 | 1
- int tf_4_var_516 = !((!(((((tf_4_struct_obj_6.member_3_2.member_2_0) ? ((int) (2)) : (tf_4_var_6))) ? ((int) (tf_4_array_1 [2])) : (!((int) (tf_4_struct_obj_5.member_2_1.member_1_4)))))) || (tf_4_array_1 [8]));
-

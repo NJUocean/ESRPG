@@ -1,3 +1,0 @@
-1166 : 2 | 1
- long int tf_0_var_1064 = (!(((int) ((((tf_0_struct_obj_4.member_4_7.member_3_4.member_2_0.member_1_1) || (tf_0_struct_obj_4.member_4_7.member_3_1.member_2_0.member_1_2)) ? ((long int) (tf_0_struct_obj_4.member_4_7.member_3_4.member_2_2.member_1_3)) : ((long int) (tf_0_struct_obj_4.member_4_7.member_3_4.member_2_0.member_1_7))))) && ((int) ((long int) ((tf_0_struct_obj_4.member_4_7.member_3_1.member_2_0.member_1_6) || ((int) (tf_0_array_2 [1]))))))) * (~((int) (tf_0_struct_obj_4.member_4_7.member_3_1.member_2_4.member_1_2)));
-

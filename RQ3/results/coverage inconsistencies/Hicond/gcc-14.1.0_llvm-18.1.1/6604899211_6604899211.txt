@@ -1,6 +1,0 @@
-832 : 2 | 1
- (*g_2047) = func_43((((!((*l_1877) < (((safe_div_func_int16_t_s_s(((safe_mul_func_int64_t_s_s((safe_unary_minus_func_int8_t_s(((*l_1877) , ((safe_unary_minus_func_int16_t_s(((0x6CL != (((***g_1252) , (**g_664)) > (l_2136 , ((*l_2150) = ((safe_sub_func_int16_t_s_s((l_2139 > 0L), ((safe_rshift_func_int16_t_s_s((safe_mul_func_int16_t_s_s(((*l_1698) = (safe_sub_func_int32_t_s_s(((((safe_lshift_func_uint64_t_u_u(((safe_lshift_func_int16_t_s_s((*l_1877), 0)) , (*g_1686)), 12)) , (*g_1230)) != l_2139) , (*g_68)), 4294967295UL))), g_2053.f4)), 5)) | l_2087))) & l_2139))))) , 4L))) & l_2139)))), 0xFC3E9404A65864CELL)) && g_1601.f0), l_2139)) && g_2066[1].f4) , (*l_1877)))) && 18446744073709551615UL) , (*g_1658)), (**l_1716), (*g_2047));
-
-448 : 1 | 2
- lbl_2179:
-

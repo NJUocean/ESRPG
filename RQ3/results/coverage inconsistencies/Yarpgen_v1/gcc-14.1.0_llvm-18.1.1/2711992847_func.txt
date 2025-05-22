@@ -1,3 +1,0 @@
-1540 : 2 | 1
- tf_1_struct_obj_12.member_1_0 = (unsigned short) ((((((int) (tf_1_var_126)) || ((int) (tf_1_var_144))) ? (((((int) (tf_1_var_114)) || ((int) (tf_1_var_58))) && ((int) ((unsigned long long int) (tf_1_var_102)))) && (!((int) (tf_1_var_88)))) : ((((int) ((unsigned long int) (tf_1_var_10))) || (((int) (tf_1_var_152)) && (-2))) || ((((int) (tf_1_var_94)) || ((int) (tf_1_struct_obj_2.member_1_0))) && ((int) ((unsigned short) (tf_1_var_168))))))) || ((int) (tf_1_var_174)));
-

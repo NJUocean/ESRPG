@@ -1,3 +1,0 @@
-1087 : 2 | 1
- tf_3_var_255 = (int) (((int) (tf_3_var_58)) && (!((((((int) (tf_3_array_1 [0])) && (tf_3_array_6 [1])) ? ((tf_3_array_6 [0]) && ((int) (tf_3_var_56))) : ((tf_3_array_4 [3]) || (tf_3_struct_obj_2.member_3_1.member_2_1.member_1_1)))) && (!(tf_3_array_6 [5])))));
-

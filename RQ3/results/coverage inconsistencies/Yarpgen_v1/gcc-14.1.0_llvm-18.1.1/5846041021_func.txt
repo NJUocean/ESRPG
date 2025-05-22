@@ -1,3 +1,0 @@
-969 : 2 | 1
- int tf_1_var_414 = (unsigned int) (((!(!((int) (tf_1_struct_obj_3.member_1_0)))) || ((!((int) (tf_1_var_408))) && ((int) ((unsigned char) (tf_1_var_406))))) && (((((tf_1_var_150) && (tf_1_array_3 [0])) || (!((int) (tf_1_var_164)))) ? ((((int) (4U)) && ((int) (tf_1_var_98))) && (((int) (tf_1_var_26)) && ((int) (*(tf_1_ptr_3))))) : ((int) (tf_1_var_24)))));
-

@@ -1,3 +1,0 @@
-1830 : 2 | 1
- int tf_1_var_579 = (((int) (tf_1_array_1 [7])) && ((int) ((long int) ((long int) (((int) (tf_1_struct_obj_3.member_1_0)) && ((int) (tf_1_var_104))))))) && ((((((int) ((unsigned long int) (tf_1_var_124))) || (!((int) (tf_1_array_4 [5])))) || (((int) (-1887852855940204422L)) && (!((int) (tf_1_var_60))))) ? (tf_1_var_4) : (!((int) ((long int) (!((int) (tf_1_var_30))))))));
-

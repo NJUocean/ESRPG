@@ -1,3 +1,0 @@
-4423 : 2 | 1
- if ((((int) ((-(+(((int) (tf_3_array_4 [1])) + ((int) (4))))) >= (+((int) ((short) (~((int) (tf_3_array_4 [2])))))))) || (+(+((int) ((((int) (tf_3_array_4 [3])) | ((int) (tf_3_var_70))) < ((int) ((tf_3_var_74) < ((long int) ((int) (tf_3_var_56)))))))))) >= (-((int) ((unsigned char) (~(((int) (tf_3_var_56)) & ((int) (0))))))))
-

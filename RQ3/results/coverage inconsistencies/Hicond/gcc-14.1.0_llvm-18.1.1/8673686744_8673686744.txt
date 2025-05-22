@@ -1,3 +1,0 @@
-325 : 2 | 1
- (**g_53) = (safe_add_func_uint8_t_u_u((((safe_lshift_func_int16_t_s_u(((**l_1188) ^= (((safe_add_func_int64_t_s_s((safe_add_func_int32_t_s_s(((safe_mul_func_int64_t_s_s(p_3.f0, 3L)) >= l_1200), (+g_971))), ((safe_add_func_int16_t_s_s((safe_sub_func_uint32_t_u_u(((((*l_1214) = (safe_sub_func_int8_t_s_s(((((((((safe_mod_func_uint16_t_u_u(l_1200, ((((*g_478) == (*g_478)) , l_1200) && ((((safe_mul_func_uint16_t_u_u((((l_1187 == l_1212[1]) >= l_1200) && 0xDA12L), l_1200)) > l_1183[2][0].f0) || p_4) | 0x2042FA06L)))) & 18446744073709551612UL) , 0x6666F24FL) == l_1213) <= p_4) , p_4) && p_3.f0) ^ 1L), 1UL))) != l_1183[2][0].f0) , 0xD196B007L), l_1200)), g_1113[3][9])) || p_3.f0))) || p_4) ^ l_1200)), p_3.f0)) , (void*)0) != (void*)0), p_3.f0));
-

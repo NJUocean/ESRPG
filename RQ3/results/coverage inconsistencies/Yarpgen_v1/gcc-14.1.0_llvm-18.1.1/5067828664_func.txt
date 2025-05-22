@@ -1,3 +1,0 @@
-585 : 2 | 1
- unsigned long long int tf_0_var_622 = (!((int) (((((int) ((tf_0_var_22) + (tf_0_struct_obj_2.member_1_1))) && ((int) (((unsigned long long int) (tf_0_var_114)) | (tf_0_var_132)))) ? ((unsigned long long int) (tf_0_var_26)) : ((unsigned long long int) (!((int) (tf_0_var_114)))))))) || ((int) (tf_0_var_26));
-

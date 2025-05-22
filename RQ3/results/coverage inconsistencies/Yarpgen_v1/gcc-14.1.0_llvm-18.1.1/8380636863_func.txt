@@ -1,3 +1,0 @@
-1032 : 2 | 1
- unsigned int tf_3_var_154 = (!(((int) (((((int) (tf_3_var_58)) || ((int) (tf_3_var_40))) ? ((unsigned int) (((int) (tf_3_var_152)) || ((int) (tf_3_var_124)))) : (tf_3_var_60)))) && ((int) (tf_3_struct_obj_6.member_1_3)))) || (!(!((((int) (tf_3_var_136)) && ((int) (tf_3_var_68))) || (!((int) (tf_3_var_2))))));
-

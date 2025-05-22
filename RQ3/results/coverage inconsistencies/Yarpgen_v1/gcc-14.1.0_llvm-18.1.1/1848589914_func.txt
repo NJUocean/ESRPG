@@ -1,3 +1,0 @@
-4542 : 2 | 1
- int tf_3_var_440 = (((int) (tf_3_var_26)) && ((int) (*(tf_3_ptr_16)))) && ((!((int) ((((tf_3_array_1 [0]) && ((int) (*(tf_3_ptr_7)))) ? ((unsigned long int) (tf_3_var_96)) : ((unsigned long int) (((int) (tf_3_var_30)) && ((int) (*(tf_3_ptr_7))))))))) || (((((int) (tf_3_var_42)) && (tf_3_var_78)) && (((int) (*(tf_3_ptr_2))) && (tf_3_array_5 [0]))) || ((tf_3_var_100) || (!(tf_3_var_162)))));
-

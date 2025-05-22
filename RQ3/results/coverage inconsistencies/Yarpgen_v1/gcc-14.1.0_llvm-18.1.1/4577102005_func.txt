@@ -1,3 +1,0 @@
-2059 : 2 | 1
- tf_2_var_151 = (long int) ((((!((1116412236) || ((int) (-4L)))) && ((((int) (tf_2_struct_obj_1.member_1_0)) && ((int) (0L))) || ((16) || (tf_2_var_66)))) || ((((((int) (tf_2_var_24)) && ((int) (tf_2_var_16))) || (((int) (tf_2_var_32)) && (tf_2_var_112))) ? (tf_2_array_3 [0]) : (!(((int) (tf_2_var_68)) && (*(tf_2_ptr_18))))))) && ((!((((int) (tf_2_var_68)) || ((int) (-7884265308583879035L))) && (((int) (tf_2_var_68)) && (tf_2_var_88)))) || ((((tf_2_var_149) || (tf_2_array_3 [3])) || (((int) (16L)) && ((int) (4ULL)))) && ((int) ((unsigned long long int) (((int) (0L)) && ((int) (8ULL))))))));
-

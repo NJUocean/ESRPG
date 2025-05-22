@@ -1,3 +1,0 @@
-6 : 2 | 1
- tf_0_var_246 = (unsigned long int) (((long int) ((~((long long int) (~(tf_0_array_1 [5])))) ^ ((long long int) ((-9223372036854775807L - 1L))))) <= ((long int) ((((int) (tf_0_var_36)) && ((((int) (tf_0_var_40)) || ((int) (6755847416589344130LL))) && (((int) (-1LL)) || ((int) (*(tf_0_ptr_15)))))) && ((((((int) (tf_0_var_152)) && ((int) (2793699979483306908LL))) || ((int) ((long int) (tf_0_var_68)))) ? (((int) (tf_0_struct_obj_1.member_1_1)) && (((int) (tf_0_array_3 [1])) || ((int) (9223372036854775807LL)))) : ((((int) (tf_0_var_56)) && ((int) (tf_0_var_56))) && (!((int) (tf_0_array_3 [1])))))))));
-

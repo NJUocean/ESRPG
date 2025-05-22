@@ -1,3 +1,0 @@
-4759 : 2 | 1
- unsigned long int tf_4_var_320 = (((((((int) (tf_4_var_34)) && ((int) (tf_4_var_290))) || (((int) (tf_4_var_14)) || ((int) (tf_4_var_86)))) ? (!((int) ((unsigned char) (tf_4_var_318)))) : (!(((int) (tf_4_struct_obj_3.member_1_3)) && ((int) (tf_4_var_14)))))) || (((((int) (tf_4_var_36)) && ((int) (tf_4_struct_obj_3.member_1_1))) || (((int) (tf_4_var_62)) || ((int) (tf_4_struct_obj_4.member_2_0)))) || ((((int) (*(tf_4_ptr_7))) && ((int) (9223372036854775807UL))) || (((int) (*(tf_4_ptr_12))) || ((int) (tf_4_var_6)))))) || (((int) ((unsigned int) ((!((int) (tf_4_var_54))) && (((int) (tf_4_struct_obj_11.member_2_0)) || ((int) (tf_4_var_74)))))) && ((int) ((unsigned int) ((((int) (tf_4_var_108)) && ((int) (0UL))) || (!((int) (tf_4_var_16)))))));
-

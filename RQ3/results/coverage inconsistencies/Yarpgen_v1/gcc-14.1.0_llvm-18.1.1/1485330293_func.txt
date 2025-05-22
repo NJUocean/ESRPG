@@ -1,3 +1,0 @@
-6368 : 2 | 1
- tf_4_var_1166 = (int) (((long long int) (((int) (-((((tf_4_var_68) && ((int) (tf_4_var_40))) ? ((long long int) (+((int) (tf_4_struct_obj_2.member_2_7)))) : ((((int) (tf_4_var_148)) ? (tf_4_var_106) : ((long long int) (tf_4_var_200)))))))) && (tf_4_var_170))) + (~((long long int) ((int) (+(tf_4_array_1 [1]))))));
-

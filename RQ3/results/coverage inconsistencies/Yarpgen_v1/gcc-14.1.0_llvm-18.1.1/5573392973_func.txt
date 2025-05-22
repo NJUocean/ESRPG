@@ -1,3 +1,0 @@
-274 : 2 | 1
- short tf_2_var_267 = (((int) (tf_2_struct_obj_5.member_3_0)) && ((((!((int) (tf_2_struct_obj_2.member_3_0))) || (((int) (tf_2_var_198)) && ((int) (tf_2_struct_obj_10.member_4_2.member_3_3.member_2_0.member_1_4)))) ? ((int) (tf_2_struct_obj_4.member_1_1)) : ((int) ((short) (tf_2_struct_obj_2.member_3_3.member_2_0.member_1_2)))))) ^ ((int) (tf_2_array_1 [3]));
-

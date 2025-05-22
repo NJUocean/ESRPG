@@ -1,3 +1,0 @@
-4873 : 2 | 1
- tf_4_struct_obj_14.member_1_2 = (long long int) (((((int) (tf_4_array_9 [6])) && (((((int) (tf_4_struct_obj_5.member_1_1)) || ((int) (tf_4_struct_obj_10.member_1_1))) ? (((int) (tf_4_struct_obj_10.member_1_0)) && ((int) (tf_4_struct_obj_5.member_1_1))) : (!((int) (*(tf_4_ptr_4))))))) || ((!(((int) (tf_4_struct_obj_5.member_1_4)) || ((int) (14604015983379597195ULL)))) || ((((int) (tf_4_struct_obj_4.member_1_2)) && ((int) (tf_4_var_38))) && (!((int) (16ULL)))))) && ((int) (-16LL)));
-

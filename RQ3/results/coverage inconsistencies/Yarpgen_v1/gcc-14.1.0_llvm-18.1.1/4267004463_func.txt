@@ -1,3 +1,0 @@
-833 : 2 | 1
- int tf_1_var_437 = !(((((((int) (tf_1_var_70)) && (tf_1_array_1 [0].member_3_2.member_1_5)) ? (((int) (tf_1_var_98)) && ((int) (tf_1_var_195))) : (tf_1_array_1 [3].member_3_1.member_2_0))) || ((((tf_1_array_1 [0].member_3_0) ? ((int) (tf_1_var_92)) : ((int) (8)))) || ((tf_1_array_1 [1].member_3_1.member_2_0) && (tf_1_array_1 [3].member_3_2.member_1_4)))) && (((((int) (*(tf_1_ptr_5))) && (tf_1_array_1 [6].member_3_1.member_2_1)) || (!((int) (tf_1_var_100)))) && ((((int) (*(tf_1_ptr_1))) || (tf_1_struct_obj_1.member_3_3)) || (((int) (*(tf_1_ptr_18))) && (*(tf_1_ptr_20))))));
-

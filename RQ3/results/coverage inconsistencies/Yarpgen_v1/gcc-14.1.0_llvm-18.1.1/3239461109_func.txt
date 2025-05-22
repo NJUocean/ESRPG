@@ -1,3 +1,0 @@
-3554 : 2 | 1
- long long int tf_3_var_678 = ((long long int) (tf_3_var_58)) ^ (((long long int) (!((int) ((((tf_3_var_100) - ((long long int) (1865063756))) + (9223372036854775807LL)) << (((((((((((int) (((int) (-(((((tf_3_var_60) ? (*(*(tf_3_ptr_4))) : ((int) (0)))) ? (-(tf_3_var_30)) : (((long long int) (-252)) - (tf_3_var_30)))))) && ((int) (-((tf_3_var_2) - ((long long int) ((int) ((unsigned char) (tf_3_var_36))))))))) - (0)) - (0)) - (0)) - (0)) - (0)) - (0)) - (0)) - (0)) - (1)))))) ^ (tf_3_var_94));
-

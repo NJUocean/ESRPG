@@ -1,3 +1,0 @@
-3961 : 2 | 1
- int tf_2_var_996 = ((int) (~(((((int) (tf_2_var_34)) && ((int) (tf_2_var_34))) ? (((unsigned long int) ((int) ((short) (16UL)))) ^ ((tf_2_var_8) | ((unsigned long int) ((int) (tf_2_var_78))))) : ((unsigned long int) (((int) (tf_2_var_34)) ^ ((-73603537) ^ (tf_2_var_50)))))))) && ((int) (((((unsigned long int) ((-29605) + (-29605))) - (((unsigned long int) (*(tf_2_ptr_1))) + (tf_2_var_98))) - (((unsigned long int) ((int) ((short) (-16)))) + ((tf_2_var_86) + (17591649173504UL)))) + (((unsigned long int) (((int) ((short) (tf_2_var_70))) + ((int) (tf_2_var_44)))) - ((((unsigned long int) ((int) (*(tf_2_ptr_4)))) + (tf_2_var_4)) - (((unsigned long int) ((int) (tf_2_var_22))) + (tf_2_var_24))))));
-

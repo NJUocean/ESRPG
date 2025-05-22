@@ -1,6 +1,0 @@
-2658 : 2 | 1
- tf_4_array_5 [5].member_1_0 = (long long int) (((int) (tf_4_struct_obj_1.member_1_1)) & (((int) ((-(+(2L))) != ((long int) ((int) ((unsigned short) ((tf_4_var_72) & ((long long int) (52736)))))))) / (((int) (((long long int) (tf_4_array_4 [0].member_1_2)) / (((long long int) (*(tf_4_ptr_7))) + (tf_4_struct_obj_1.member_1_0)))) && ((int) (((((int) (tf_4_var_30)) && ((int) (tf_4_array_5 [7].member_1_0))) ? (tf_4_array_4 [7].member_1_3) : ((long int) ((-52737) && ((int) (tf_4_var_76))))))))));
-
-257 : 2 | 1
- tf_0_var_308 = (long int) (((int) ((((((int) (9129549517610566611LL)) && (((int) (tf_0_struct_obj_5.member_2_0)) && ((int) (tf_0_var_144)))) || ((int) ((unsigned short) (((int) (tf_0_var_54)) || ((int) (tf_0_struct_obj_5.member_2_0)))))) ? ((((((int) (tf_0_struct_obj_3.member_1_3)) || ((int) (tf_0_struct_obj_3.member_1_3))) || (((int) (2)) || ((int) (-3LL)))) ? (tf_0_struct_obj_7.member_1_7) : ((long int) (!(!(-41559)))))) : ((long int) (((-41558) || ((int) (8))) && (((int) (tf_0_var_146)) && ((int) (tf_0_var_126)))))))) && ((int) (((long long int) ((int) (65535))) + (((long long int) ((tf_0_struct_obj_5.member_2_0) - ((long long int) (tf_0_var_32)))) + ((long long int) (4030880727291938136L))))));
-

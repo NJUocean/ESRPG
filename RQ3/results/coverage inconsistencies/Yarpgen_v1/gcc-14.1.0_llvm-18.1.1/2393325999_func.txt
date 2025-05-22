@@ -1,3 +1,0 @@
-9 : 2 | 1
- if (((int) ((long int) ((((!((int) (tf_0_var_76))) || (((int) (8L)) && ((int) (tf_0_var_16)))) ? ((((int) (*(tf_0_ptr_12))) && ((int) (*(tf_0_ptr_7)))) && ((int) ((unsigned char) (tf_0_var_20)))) : ((((int) (1446870465770726945L)) && ((int) (tf_0_var_150))) || ((int) (*(tf_0_ptr_2)))))))) && (((int) (*(tf_0_ptr_6))) || ((int) (tf_0_var_72))))
-

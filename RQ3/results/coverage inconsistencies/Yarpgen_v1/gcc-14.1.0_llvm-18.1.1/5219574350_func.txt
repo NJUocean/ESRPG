@@ -1,3 +1,0 @@
-4305 : 2 | 1
- if (((((((int) ((unsigned char) (8UL))) ? (-(4UL)) : ((0UL) + (4UL)))) - ((unsigned long int) ((+(1183649642)) - (+((int) (16)))))) + ((unsigned long int) (+(((+(-4)) ? (-(528283667)) : (528283667)))))) * ((unsigned long int) ((!((int) ((((tf_4_struct_obj_1.member_3_2.member_1_2) && ((int) (*(tf_4_ptr_8)))) ? (tf_4_var_30) : ((unsigned long int) ((int) (!(tf_4_struct_obj_9.member_3_4)))))))) || ((int) (((unsigned long int) ((((int) ((+(11969937624617306275UL)) + ((unsigned long int) ((int) (0))))) ? ((unsigned long int) ((!((int) (tf_4_var_12))) + (-(tf_4_var_64)))) : (~((unsigned long int) (tf_4_var_12)))))) < ((unsigned long int) (*(tf_4_ptr_3))))))))
-

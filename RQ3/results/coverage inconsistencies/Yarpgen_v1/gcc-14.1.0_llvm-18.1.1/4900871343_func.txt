@@ -1,6 +1,0 @@
-5360 : 2 | 1
- if ((((16) ? ((((((int) (tf_3_var_104)) + ((int) (tf_3_var_78))) - (-(*(tf_3_ptr_9)))) ? (+(((int) ((-127 - 1))) * ((int) (tf_3_var_150)))) : (+((-1) - ((int) (tf_3_var_92)))))) : ((-((-2) * ((int) (tf_3_struct_obj_2.member_2_3.member_1_0)))) + (+((-3) - (-127)))))) * (((int) ((signed char) (*(tf_3_ptr_8)))) * ((((1532717572) + (-2)) / (+((int) (tf_3_struct_obj_2.member_2_3.member_1_2)))) / (-(((int) (tf_3_var_16)) * ((int) (tf_3_var_92)))))))
-
-1553 : 2 | 1
- if (!(((((((int) (16)) && ((int) (tf_1_var_126))) && (((int) (tf_1_var_138)) && ((int) (tf_1_var_82)))) ? ((int) ((signed char) (tf_1_struct_obj_1.member_2_2))) : (!(!((int) (tf_1_array_2 [1].member_2_0)))))) && (((((int) (4)) || ((int) ((signed char) (16)))) ? ((((int) (tf_1_array_1 [0].member_2_0)) || ((int) (tf_1_var_142))) && (!(tf_1_var_144))) : (((int) ((unsigned char) (tf_1_array_2 [1].member_2_0))) || ((int) (tf_1_var_32)))))))
-

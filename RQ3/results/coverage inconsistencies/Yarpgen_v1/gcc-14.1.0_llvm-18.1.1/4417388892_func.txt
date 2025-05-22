@@ -1,3 +1,0 @@
-868 : 2 | 1
- long int tf_0_var_1095 = (!(!((((int) (0L)) || ((int) (tf_0_var_1085))) || (-(((int) (((long int) (-(tf_0_var_32))) >> (((int) (tf_0_var_34)) + (23212)))) && ((int) ((((unsigned long long int) ((((int) (tf_0_var_18)) ? (tf_0_var_8) : ((long int) ((int) (tf_0_var_18)))))) * ((tf_0_var_10) | ((unsigned long long int) (-1023)))) >> ((tf_0_var_36) - (3101177312499234130L))))))))) && (((((((int) (tf_0_var_30)) && ((int) (tf_0_var_62))) && (((int) (tf_0_array_1 [2])) || ((int) (tf_0_var_44)))) ? (!(!((int) (tf_0_var_84)))) : (!(!((int) (tf_0_var_58)))))) && (((!((int) (tf_0_array_1 [2]))) || (!((int) (tf_0_var_68)))) && ((int) (tf_0_array_1 [3]))));
-

@@ -1,3 +1,0 @@
-1912 : 2 | 1
- unsigned long long int tf_1_var_1182 = (tf_1_var_70) | ((long int) ((((int) (((((int) (*(tf_1_ptr_5))) || ((int) (tf_1_struct_obj_3.member_1_2))) ? ((long int) (tf_1_var_52)) : ((long int) (!((int) (*(tf_1_ptr_60)))))))) && (((int) ((unsigned long long int) (tf_1_array_1 [6]))) || (((int) (tf_1_var_2)) || ((int) (tf_1_var_1074))))) && ((int) (tf_1_var_20))));
-

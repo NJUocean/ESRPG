@@ -1,3 +1,0 @@
-12 : 2 | 1
- unsigned long long int tf_0_var_218 = ((unsigned int) (((int) (~(((unsigned long long int) (-(tf_0_var_12))) * ((unsigned long long int) (tf_0_var_18))))) && ((int) ((signed char) (((((int) (tf_0_array_4 [4])) && ((int) (*(tf_0_ptr_8)))) ? ((-25) && ((int) (tf_0_var_120))) : ((int) (((int) (tf_0_array_5 [3].member_2_2)) == ((int) (tf_0_var_216)))))))))) > ((((unsigned int) ((int) ((signed char) (((unsigned int) ((int) (tf_0_struct_obj_3.member_5_1.member_1_6))) ^ (tf_0_array_5 [8].member_2_1))))) & (4U)) | ((unsigned int) (-24)));
-

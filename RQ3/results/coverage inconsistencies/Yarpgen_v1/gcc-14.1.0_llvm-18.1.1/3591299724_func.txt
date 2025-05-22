@@ -1,3 +1,0 @@
-3648 : 2 | 1
- if ((((((int) ((unsigned int) (((int) (*(tf_4_ptr_7))) || ((int) (tf_4_var_46))))) ? (!((int) ((signed char) (*(tf_4_ptr_9))))) : (((((int) (4292870148U)) || ((int) (tf_4_array_2 [5]))) ? (!((int) (tf_4_array_2 [6]))) : (!((int) (tf_4_array_1 [2]))))))) && ((int) ((unsigned int) (127)))) || (!(!((int) (tf_4_var_6)))))
-

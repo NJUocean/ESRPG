@@ -1,3 +1,0 @@
-1463 : 2 | 1
- short tf_1_var_193 = !((!((!((int) (tf_1_var_120))) && (!((int) (tf_1_var_64))))) && ((((((int) (tf_1_var_20)) || ((int) (tf_1_var_72))) ? (!((int) (tf_1_struct_obj_3.member_2_5))) : ((((int) (tf_1_var_82)) ? ((int) (*(tf_1_ptr_6))) : ((int) (4)))))) || (!((-60364) && ((int) (*(tf_1_ptr_8)))))));
-

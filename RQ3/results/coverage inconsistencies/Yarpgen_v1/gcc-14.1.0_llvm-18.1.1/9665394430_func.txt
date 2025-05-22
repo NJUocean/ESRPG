@@ -1,3 +1,0 @@
-6124 : 2 | 1
- unsigned short tf_4_var_606 = (((((!((int) (((tf_4_array_2 [0].member_3_1) + (9223372036854775807LL)) >> (((int) (tf_4_array_4 [3].member_3_8.member_2_5)) - (32865))))) ? (!(!((int) (tf_4_array_6 [1].member_5_2.member_3_8.member_2_4)))) : ((((int) (tf_4_array_8 [2].member_3_2)) && ((int) (tf_4_struct_obj_5.member_5_2.member_3_8.member_2_0.member_1_0))) || (((int) (68719214592LL)) || ((int) (tf_4_array_3 [3].member_3_8.member_2_9)))))) ? ((!((int) ((unsigned short) (1)))) || (!((int) (tf_4_struct_obj_1.member_3_1)))) : (!((((int) (tf_4_array_6 [0].member_5_2.member_3_8.member_2_3)) ? (!((int) (tf_4_array_7 [2]))) : (((int) (68719214592LL)) && (124))))))) || ((int) (tf_4_array_8 [3].member_3_8.member_2_5));
-

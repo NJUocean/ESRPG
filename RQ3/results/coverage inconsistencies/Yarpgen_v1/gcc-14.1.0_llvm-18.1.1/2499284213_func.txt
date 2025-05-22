@@ -1,3 +1,0 @@
-619 : 2 | 1
- short tf_2_var_294 = ((int) (((((int) (tf_2_array_5 [2])) && (((int) ((tf_2_var_102) == ((long long int) (-992)))) - ((int) (tf_2_var_86)))) ? ((long long int) ((int) (((((int) (tf_2_array_1 [1])) | ((int) (tf_2_var_126))) & (~((int) (3)))) < ((int) ((~(tf_2_var_94)) > ((long int) (~(-16)))))))) : (tf_2_var_118)))) && ((int) (((long int) ((((int) (tf_2_var_114)) && ((int) (tf_2_array_2 [7]))) && (((int) (tf_2_array_4 [2])) || ((int) (tf_2_array_2 [6]))))) >= ((long int) (4))));
-

@@ -1,3 +1,0 @@
-2149 : 2 | 1
- int tf_3_var_334 = (((((((int) (tf_3_array_6 [1].member_1_2)) && ((int) (tf_3_struct_obj_4.member_1_1))) ? (((int) (tf_3_array_9 [2])) && ((int) (tf_3_struct_obj_5.member_1_4))) : ((int) (tf_3_var_24)))) && (!(!(tf_3_array_7 [5].member_1_0)))) || ((!(((2) ? (255) : (256)))) || (((tf_3_struct_obj_2.member_1_0) && ((int) (tf_3_var_100))) && (((int) (tf_3_array_6 [2].member_1_2)) && (tf_3_struct_obj_4.member_1_3))))) | (tf_3_var_58);
-

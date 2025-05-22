@@ -1,3 +1,0 @@
-1209 : 2 | 1
- if (!((int) (((unsigned long int) ((((((int) (tf_1_var_158)) || ((int) (tf_1_var_130))) ? (!((int) (~(((long long int) (!((int) (tf_1_var_54)))) * ((*(tf_1_ptr_1)) * ((long long int) (!((int) (tf_1_var_28))))))))) : (((int) (tf_1_var_164)) && ((int) (tf_1_var_76))))) || ((int) ((short) (((int) (tf_1_var_144)) || ((int) (tf_1_var_84))))))) >= (+((unsigned long int) (((int) (tf_1_var_84)) * ((int) (tf_1_var_44))))))))
-

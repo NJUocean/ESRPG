@@ -1,3 +1,0 @@
-1678 : 2 | 1
- unsigned long long int tf_1_var_850 = ((((!(!((int) (tf_1_array_2 [1])))) ? (!((int) ((unsigned short) (18442240474082181120ULL)))) : (((int) ((unsigned long long int) (tf_1_var_56))) && ((int) ((unsigned long long int) (tf_1_var_812)))))) || (!(!((((int) (((unsigned int) ((int) (*(tf_1_ptr_5)))) & (-((unsigned int) ((-34619) || ((int) (tf_1_var_30))))))) ? ((int) ((unsigned short) (*(tf_1_ptr_5)))) : ((int) (*(tf_1_ptr_5)))))))) && ((int) ((unsigned long long int) ((((((int) (16)) && ((int) (tf_1_var_158))) || ((int) (*(tf_1_ptr_5)))) ? ((int) ((unsigned short) ((((int) (3U)) ? ((int) (tf_1_var_170)) : ((int) (tf_1_var_40)))))) : ((((int) (tf_1_array_3 [4])) || ((int) (tf_1_var_62))) || ((int) (*(tf_1_ptr_14))))))));
-

@@ -1,6 +1,0 @@
-6221 : 2 | 1
- unsigned char tf_4_var_908 = ((((((!((int) (tf_4_var_160))) || ((int) ((((int) (tf_4_var_102)) ? (tf_4_var_134) : ((long long int) ((int) (16))))))) ? ((((int) (tf_4_var_136)) && (-229)) && ((((int) (-4993451127721267030LL)) ? ((int) (tf_4_var_46)) : ((int) (tf_4_var_98))))) : (!(((int) (tf_4_var_94)) && ((int) (tf_4_var_150)))))) && (((((int) (tf_4_var_110)) && ((int) (tf_4_var_148))) || (((int) (16)) && ((int) (tf_4_var_112)))) || (((int) ((((int) (tf_4_var_106)) ? ((long long int) ((int) (tf_4_var_158))) : (tf_4_var_906)))) && (((int) (tf_4_var_158)) || ((int) (tf_4_var_116)))))) ? (!(((((int) (tf_4_var_126)) && ((int) (1))) || (((int) (1)) && ((int) (tf_4_var_18)))) && ((((int) (tf_4_var_116)) && ((int) (tf_4_var_146))) && (!((int) (tf_4_var_132)))))) : ((int) (tf_4_var_138)));
-
-1580 : 2 | 1
- long long int tf_1_var_422 = !(((((((int) (tf_1_var_22)) || ((int) (tf_1_array_7 [5]))) && (((int) (tf_1_array_7 [4])) || ((int) (tf_1_var_30)))) ? (((int) ((unsigned char) (tf_1_var_74))) || (((int) (tf_1_var_408)) || ((int) (tf_1_var_64)))) : (!(((int) (tf_1_var_412)) && ((int) (tf_1_array_7 [5])))))) && ((int) (tf_1_var_96)));
-

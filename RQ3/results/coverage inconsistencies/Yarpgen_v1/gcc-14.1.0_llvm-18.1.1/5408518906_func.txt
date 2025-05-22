@@ -1,3 +1,0 @@
-6231 : 2 | 1
- if (!((((!((int) (tf_4_var_76))) && ((int) (1125899906842624LL))) || ((((tf_4_array_2 [1]) && (tf_4_var_6)) ? (((int) (tf_4_var_46)) || (tf_4_var_130)) : (((int) (tf_4_var_124)) || (*(tf_4_ptr_5)))))) && ((int) (~((((int) (~((unsigned long long int) (((long long int) (-1)) | (tf_4_struct_obj_1.member_5_0))))) ? ((long long int) ((((unsigned long long int) (tf_4_var_24)) ^ (tf_4_var_28)) | ((unsigned long long int) ((tf_4_array_2 [0]) ^ (tf_4_var_52))))) : ((long long int) (((int) (tf_4_var_2)) & ((tf_4_var_12) | (tf_4_var_18))))))))))
-

@@ -1,9 +1,0 @@
-4568 : 2 | 1
- tf_3_var_529 = (unsigned long long int) (!(((((int) ((unsigned long long int) ((tf_3_var_2) && (tf_3_var_78)))) ? ((((int) (*(tf_3_ptr_11))) && (tf_3_var_72)) || (((int) (tf_3_var_130)) || (*(tf_3_ptr_1)))) : (!(!((int) (*(tf_3_ptr_12))))))) && ((int) ((unsigned char) (((tf_3_var_56) || ((int) (tf_3_var_66))) || ((int) ((unsigned long long int) (tf_3_var_122))))))));
-
-5192 : 2 | 1
- int tf_3_var_1085 = ((((int) (((((int) (tf_3_var_46)) && (tf_3_var_50)) ? (((tf_3_var_112) ? (tf_3_var_160) : ((unsigned long long int) ((int) (tf_3_var_38))))) : ((unsigned long long int) (!((int) (tf_3_var_1081))))))) && ((int) ((unsigned char) (tf_3_var_132)))) || ((!((tf_3_struct_obj_2.member_1_0) || (tf_3_struct_obj_4.member_2_0))) || (((int) ((unsigned char) (tf_3_var_34))) && (((int) (tf_3_var_38)) || ((int) (tf_3_var_120)))))) && (((!(!(-1723054631))) && ((((int) (tf_3_var_8)) && (tf_3_var_78)) && (!(tf_3_var_1083)))) || (((!(1723054631)) || (((int) (8)) || ((int) (68715282432ULL)))) && ((int) ((unsigned char) ((-2045) || ((-2147483647 - 1)))))));
-
-4407 : 2 | 1
- int tf_3_var_385 = ((!((int) (((((int) (tf_3_struct_obj_3.member_2_1)) && (tf_3_array_1 [0])) ? (((tf_3_var_122) ? (tf_3_var_162) : (tf_3_array_5 [3]))) : ((unsigned long long int) (!(255))))))) && (((((tf_3_array_4 [5].member_1_0) || ((int) (tf_3_var_66))) ? (((int) (tf_3_var_66)) || ((int) (*(tf_3_ptr_10)))) : (((tf_3_array_8 [4]) ? ((int) (tf_3_var_66)) : (tf_3_var_30))))) || (((tf_3_var_26) && ((int) (tf_3_var_74))) || (((int) (tf_3_array_6 [6])) || (-8))))) || (!((((-255) || (255)) && ((int) ((unsigned long long int) (tf_3_var_36)))) || ((((tf_3_array_1 [4]) ? (-65536) : (tf_3_array_1 [2]))) || ((int) ((((int) (tf_3_var_351)) ? (2305843009213693952ULL) : ((unsigned long long int) (tf_3_var_154))))))));
-

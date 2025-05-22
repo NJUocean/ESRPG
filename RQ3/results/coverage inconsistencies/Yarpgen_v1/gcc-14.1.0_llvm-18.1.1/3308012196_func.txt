@@ -1,6 +1,0 @@
-857 : 2 | 1
- unsigned short tf_0_var_798 = !(((((((int) (tf_0_var_52)) || ((int) (tf_0_var_178))) && (((int) (tf_0_var_116)) && (-41349))) ? ((!((int) (tf_0_var_64))) && (!((int) (tf_0_var_138)))) : ((!((int) (tf_0_var_2))) || (((int) (tf_0_var_18)) || ((int) (tf_0_var_146)))))) || ((int) (*(tf_0_ptr_3))));
-
-514 : 2 | 1
- tf_0_var_558 = (unsigned long int) (((((((int) ((unsigned short) (tf_0_var_48))) || (((int) (tf_0_struct_obj_8.member_3_7)) || ((int) (tf_0_var_58)))) ? (((int) ((unsigned long int) (tf_0_var_94))) || (((int) (tf_0_var_32)) && ((int) (tf_0_struct_obj_8.member_3_3)))) : ((int) ((unsigned short) (tf_0_var_8))))) || ((!((-8128) && ((int) (16)))) && (((32831) || (-32831)) || ((int) ((unsigned long int) (-32831)))))) && (!(((!((int) (tf_0_var_132))) && (((int) (tf_0_struct_obj_8.member_3_5)) || ((int) (tf_0_var_180)))) && (((int) ((unsigned long long int) (tf_0_var_104))) && (((int) (tf_0_var_104)) || ((int) (18446744073709551584ULL)))))));
-

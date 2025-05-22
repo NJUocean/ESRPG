@@ -1,3 +1,0 @@
-2446 : 2 | 1
- long long int tf_4_var_186 = (tf_4_array_1 [2].member_4_1) + ((unsigned long long int) ((((!((int) (tf_4_var_100))) || ((int) (((tf_4_var_118) ? (tf_4_var_106) : ((long long int) (tf_4_var_76)))))) && ((((int) ((((int) (tf_4_struct_obj_5.member_2_7.member_1_1)) ? (tf_4_struct_obj_5.member_2_7.member_1_1) : ((long long int) (234881024))))) ? (tf_4_struct_obj_4.member_2_1) : (!((int) (tf_4_array_4 [0])))))) & (!((int) (((*(tf_4_ptr_3)) + ((unsigned long long int) (tf_4_var_42))) >> ((((unsigned long long int) (-234881025)) / (*(tf_4_ptr_4))) - (154ULL)))))));
-

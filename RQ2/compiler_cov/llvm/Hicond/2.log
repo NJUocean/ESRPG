@@ -1,0 +1,7 @@
+[0.127s] [info]: Found 3678 coverage files (.gcno)
+[0.069s] [info]: Spawned 32 gcov processes, each processing at most 115 coverage files
+[12.461s] [info]: Processed 186016 .gcov files (186016 total, 0 skipped)
+[2.564s] [info]: Created lcov info file '/root/result/RQ2/llvm/Hicond/2.info'
+[0.217s] [info]: Files Coverage: 19.63%, 1330/6776
+[0.000s] [info]: Functions Coverage: 4.87%, 17159/351984
+[0.000s] [info]: Lines Coverage: 5.96%, 82670/1387714

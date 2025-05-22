@@ -1,9 +1,0 @@
-1978 : 2 | 1
- if (((((((int) (tf_1_var_20)) || ((int) (tf_1_var_194))) && (((int) (tf_1_var_162)) && ((int) (*(tf_1_ptr_7))))) && ((int) (((((int) (tf_1_var_152)) && ((int) (tf_1_var_174))) ? ((unsigned int) ((int) (tf_1_var_140))) : (tf_1_var_132))))) && ((int) (16))) >= ((int) (((((((int) (3L)) ? (tf_1_var_76) : (tf_1_struct_obj_5.member_2_5))) / ((-16L) * ((long int) (-7)))) / (tf_1_var_673)) == (((long int) ((int) (tf_1_var_86))) / ((((long int) (tf_1_var_194)) * (*(tf_1_ptr_5))) / (((long int) (tf_1_var_52)) * (-2L)))))))
-
-5013 : 2 | 1
- unsigned int tf_3_var_1012 = ((int) (((tf_3_var_130) | (((long int) ((int) (tf_3_var_106))) & (tf_3_array_4 [0]))) > (((tf_3_array_6 [2]) / ((long int) (42))) * (((tf_3_array_2 [1]) * ((long int) (*(tf_3_ptr_12)))) * ((long int) (((unsigned int) ((int) (tf_3_var_66))) * (812826464U))))))) == (((((((int) (tf_3_array_11 [1])) && ((int) (tf_3_array_4 [2]))) ? (((int) (tf_3_var_144)) && ((int) (tf_3_var_142))) : (((int) (tf_3_var_112)) || ((int) (tf_3_array_5 [2]))))) || ((int) (tf_3_var_118))) && (((int) (tf_3_var_58)) || ((((int) (tf_3_array_11 [1])) && ((int) (tf_3_array_10 [1]))) && (((int) (tf_3_var_16)) && ((int) (2771149123U))))));
-
-646 : 2 | 1
- tf_0_var_116 = (long int) (((((int) (tf_0_var_76)) || ((int) (tf_0_var_62))) && (((((((int) (*(tf_0_ptr_12))) || ((int) (tf_0_array_1 [0]))) ? ((int) (tf_0_array_5 [3])) : (((int) (16U)) || ((int) (9223372036854775807L))))) ? ((((int) (tf_0_var_24)) || ((int) (tf_0_array_3 [0].member_4_3))) && (((int) (tf_0_var_98)) || ((int) (tf_0_struct_obj_4.member_3_0.member_2_1.member_1_2)))) : ((((int) (tf_0_array_3 [1].member_4_3)) && ((int) (tf_0_struct_obj_4.member_3_0.member_2_1.member_1_3))) && ((int) ((((int) (*(tf_0_ptr_53))) ? ((long int) ((int) (tf_0_array_3 [1].member_4_3))) : (tf_0_struct_obj_3.member_2_1.member_1_0)))))))) >> ((tf_0_var_46) - (7235792768289078762L)));
-

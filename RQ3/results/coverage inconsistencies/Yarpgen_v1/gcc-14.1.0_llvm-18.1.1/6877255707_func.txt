@@ -1,3 +1,0 @@
-1026 : 2 | 1
- if ((!((int) ((long int) (!((tf_1_struct_obj_1.member_3_1) || (tf_1_var_116)))))) >> ((int) ((((long int) (((((tf_1_var_26) << ((tf_1_var_26) - (1133477563))) && (~(~(tf_1_var_48)))) ? (tf_1_var_88) : ((long int) ((int) ((signed char) (tf_1_array_1 [4]))))))) >> (((int) (tf_1_var_62)) - (57))) <= (((long int) ((int) ((signed char) ((((int) (tf_1_var_62)) ? ((long int) (-4)) : (7313526862719266620L)))))) * ((((long int) (tf_1_var_14)) / ((tf_1_var_40) + ((long int) (tf_1_var_26)))) - ((long int) ((((int) (tf_1_var_76)) - ((int) (tf_1_var_58))) + ((int) ((signed char) (tf_1_var_68))))))))))
-

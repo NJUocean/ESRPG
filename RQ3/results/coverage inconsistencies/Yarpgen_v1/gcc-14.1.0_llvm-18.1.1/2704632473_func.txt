@@ -1,3 +1,0 @@
-1214 : 2 | 1
- if ((unsigned int) (((((((int) (tf_4_var_50)) && ((int) (tf_4_struct_obj_1.member_4_0))) || (((int) (tf_4_struct_obj_3.member_3_5.member_2_5.member_1_0)) || ((int) (tf_4_var_112)))) ? (!((int) ((unsigned char) ((-(((tf_4_var_108) * ((unsigned int) ((int) (tf_4_var_2)))) + ((unsigned int) ((((int) (2U)) ? (104) : (-104)))))) * ((unsigned int) (-((int) ((unsigned char) (tf_4_struct_obj_3.member_3_5.member_2_0))))))))) : ((((int) (tf_4_var_122)) || ((int) (*(*(tf_4_ptr_7))))) || (!((int) (3U)))))) || (((int) ((unsigned char) (((int) (0U)) || ((int) (tf_4_var_60))))) && ((int) (((((int) (*(tf_4_ptr_17))) && ((int) (tf_4_struct_obj_3.member_3_5.member_2_5.member_1_2))) ? ((unsigned int) (tf_4_var_10)) : ((unsigned int) (((int) (2147450880U)) || (-112)))))))))
-

@@ -1,0 +1,7 @@
+[0.128s] [info]: Found 3678 coverage files (.gcno)
+[0.075s] [info]: Spawned 32 gcov processes, each processing at most 115 coverage files
+[12.707s] [info]: Processed 186016 .gcov files (186016 total, 0 skipped)
+[2.590s] [info]: Created lcov info file '/root/result/RQ2/llvm/CsmithEdge/17.info'
+[0.215s] [info]: Files Coverage: 19.66%, 1332/6776
+[0.000s] [info]: Functions Coverage: 4.93%, 17353/351984
+[0.000s] [info]: Lines Coverage: 6.09%, 84511/1387714

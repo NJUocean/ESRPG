@@ -1,6 +1,0 @@
-1139 : 2 | 1
- tf_2_var_824 = (short) (((unsigned int) (((int) ((signed char) (~(+(tf_2_var_34))))) && (((-(((int) (tf_2_var_72)) && ((int) (tf_2_var_60)))) ? ((int) ((signed char) (((int) (tf_2_var_10)) ^ ((int) (tf_2_var_62))))) : ((((int) (tf_2_var_28)) & ((int) (tf_2_var_20))) + ((24) - ((int) (tf_2_array_4 [3])))))))) >= ((unsigned int) (~(((int) ((unsigned int) (tf_2_struct_obj_2.member_1_0))) || ((int) ((short) (tf_2_var_14)))))));
-
-1241 : 2 | 1
- unsigned int tf_3_var_198 = !(((((((int) (tf_3_array_4 [8].member_5_5)) && ((int) (tf_3_array_4 [8].member_5_4.member_3_3))) ? (((int) (tf_3_var_146)) && ((int) (tf_3_var_110))) : (((int) (tf_3_array_6 [0].member_4_8)) && ((int) (tf_3_array_1 [4].member_5_5))))) && ((!((int) (tf_3_var_76))) || (((int) (tf_3_array_4 [0].member_5_2)) || ((int) (tf_3_array_2 [1].member_4_1))))) || (!(((int) ((((int) (4294950912U)) ? ((unsigned int) ((int) (tf_3_var_64))) : (16384U)))) && (!((int) (tf_3_array_6 [5].member_4_4))))));
-

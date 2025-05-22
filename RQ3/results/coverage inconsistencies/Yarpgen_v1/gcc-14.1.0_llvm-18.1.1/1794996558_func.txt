@@ -1,6 +1,0 @@
-68 : 2 | 1
- tf_2_struct_obj_6.member_2_2.member_1_4 = (long long int) (((int) ((((((int) ((unsigned short) (tf_2_var_64))) || (!((int) (tf_2_array_3 [1].member_2_2.member_1_1)))) || (!((int) ((long long int) (-4917881980915371031LL))))) ? (tf_2_struct_obj_9.member_2_2.member_1_3) : ((long long int) (tf_2_var_154))))) && ((int) ((-2LL) & ((long long int) (*(tf_2_ptr_11))))));
-
-945 : 2 | 1
- if (!((int) ((((long long int) (((long long int) (tf_4_struct_obj_2.member_1_1)) ^ (tf_4_var_20))) - ((long long int) ((int) (tf_4_struct_obj_3.member_2_3)))) / ((long long int) (((int) (((((int) (tf_4_struct_obj_3.member_2_3)) && ((int) (tf_4_var_52))) ? ((long long int) (!((int) (tf_4_var_138)))) : ((long long int) (tf_4_var_50))))) || ((((int) (tf_4_var_114)) && ((int) (tf_4_var_172))) && ((int) (*(tf_4_ptr_9)))))))))
-

@@ -1,3 +1,0 @@
-3118 : 2 | 1
- unsigned long long int tf_2_var_481 = ((int) ((unsigned int) (((!(((int) (tf_2_var_142)) || ((int) (tf_2_var_170)))) ? (tf_2_var_48) : (*(tf_2_ptr_7)))))) && ((int) (tf_2_var_48));
-

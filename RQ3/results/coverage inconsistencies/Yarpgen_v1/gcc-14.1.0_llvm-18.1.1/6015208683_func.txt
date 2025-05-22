@@ -1,6 +1,0 @@
-19 : 2 | 1
- short tf_0_var_203 = ((int) ((tf_0_var_160) ^ (tf_0_array_1 [0].member_1_1))) && ((int) (((!(!(((int) (tf_0_var_68)) && ((int) (tf_0_var_30))))) ? ((long int) ((int) (*(tf_0_ptr_2)))) : ((tf_0_var_84) | ((((int) (tf_0_array_3 [1].member_1_1)) ? (tf_0_var_10) : (tf_0_var_72)))))));
-
-1004 : 2 | 1
- short tf_0_var_913 = (unsigned int) (((((((int) (tf_0_var_132)) || ((int) (tf_0_array_3 [5].member_1_0))) ? (((int) (tf_0_var_136)) && ((int) (tf_0_array_4 [3].member_1_1))) : (!((int) (tf_0_var_130))))) && ((((int) (tf_0_var_150)) && ((int) (tf_0_var_118))) && (((int) (tf_0_var_12)) && ((int) (tf_0_var_112))))) && (((!((int) (tf_0_var_58))) || (((int) (-2L)) && ((int) (tf_0_var_92)))) && ((((int) (tf_0_var_62)) && ((int) (tf_0_var_733))) && (((int) (tf_0_var_124)) || ((int) (tf_0_var_6))))));
-

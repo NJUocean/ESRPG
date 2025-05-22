@@ -1,3 +1,0 @@
-6815 : 2 | 1
- unsigned short tf_4_var_1623 = (~(tf_4_array_7 [1].member_1_1)) / (((((((int) (tf_4_array_3 [5])) && ((int) (4L))) && ((int) (tf_4_var_30))) ? ((int) ((unsigned short) (tf_4_array_1 [1].member_1_0))) : (tf_4_var_14))) && ((tf_4_var_14) && ((65472) || ((int) ((unsigned short) (2))))));
-

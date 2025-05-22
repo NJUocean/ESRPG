@@ -1,3 +1,0 @@
-5302 : 2 | 1
- if (((long long int) (!(((int) (((((int) (tf_4_var_20)) || ((int) (tf_4_var_96))) ? ((long long int) (!((int) (tf_4_var_170)))) : (tf_4_var_160)))) || ((int) (*(tf_4_ptr_7)))))) <= (tf_4_var_84))
-

@@ -1,3 +1,0 @@
-4109 : 2 | 1
- if ((+((-(-(tf_2_array_3 [2].member_2_8))) - (-(((unsigned long int) (tf_2_array_6 [0].member_3_5.member_2_6)) - (tf_2_array_5 [0].member_2_1))))) < ((unsigned long int) (((int) (((~(4UL)) ^ (~(tf_2_array_6 [4].member_3_5.member_2_7.member_1_5))) | (tf_2_struct_obj_1.member_2_1))) && ((int) ((unsigned int) ((((tf_2_array_1 [1].member_5_4) * (((unsigned long int) (tf_2_array_1 [0].member_5_1.member_4_0)) * ((unsigned long int) ((unsigned int) (tf_2_array_6 [1].member_3_0))))) * ((unsigned long int) (+(-((int) (tf_2_struct_obj_1.member_2_7.member_1_2)))))) * (((unsigned long int) (((int) (tf_2_array_4 [2].member_2_2)) / ((int) (tf_2_array_1 [3].member_5_3.member_3_5.member_2_7.member_1_4)))) * (tf_2_array_6 [3].member_3_4))))))))
-

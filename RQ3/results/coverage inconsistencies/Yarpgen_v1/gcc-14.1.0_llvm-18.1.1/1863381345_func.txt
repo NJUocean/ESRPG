@@ -1,3 +1,0 @@
-3774 : 2 | 1
- if (((int) ((unsigned char) (((unsigned long long int) ((int) ((unsigned char) ((unsigned char) (tf_4_var_112))))) - (((unsigned long long int) (+(tf_4_struct_obj_3.member_1_0))) + (((unsigned long long int) ((int) (tf_4_var_36))) - (*(tf_4_ptr_4))))))) - (((int) ((unsigned char) ((((int) ((((int) (tf_4_struct_obj_7.member_1_4)) ? (4160749568U) : (*(tf_4_ptr_2))))) ? (((int) (tf_4_var_84)) || ((int) (tf_4_struct_obj_6.member_1_4))) : (((int) (tf_4_var_26)) || ((int) (tf_4_struct_obj_1.member_1_2))))))) && ((int) ((unsigned int) ((((-69) || ((int) (18446181125903613951ULL))) ? (((int) (tf_4_var_16)) || ((int) (tf_4_struct_obj_1.member_1_5))) : ((-68) && ((int) (tf_4_struct_obj_2.member_1_5)))))))))
-

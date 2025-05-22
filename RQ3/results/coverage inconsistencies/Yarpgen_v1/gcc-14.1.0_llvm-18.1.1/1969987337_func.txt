@@ -1,3 +1,0 @@
-3327 : 2 | 1
- tf_4_var_1248 = (unsigned short) (!((int) ((unsigned int) ((((((int) (tf_4_array_5 [6])) || ((int) (tf_4_struct_obj_4.member_3_7.member_2_4.member_1_2))) ? (!((int) (tf_4_struct_obj_3.member_2_2))) : (!((int) (*(tf_4_ptr_4)))))) || (!(((int) (tf_4_var_150)) || ((int) (tf_4_array_8 [9]))))))));
-

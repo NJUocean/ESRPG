@@ -1,3 +1,0 @@
-1143 : 2 | 1
- if (((unsigned long long int) (((int) (~(-(-(tf_2_array_3 [1]))))) && ((int) (-(-(((unsigned long long int) (tf_2_var_60)) | (3688685871711332131ULL))))))) <= (((((int) ((((int) ((((int) (tf_2_var_50)) ? ((unsigned long long int) ((int) (tf_2_var_70))) : (8ULL)))) ? (tf_2_array_6 [1]) : ((tf_2_var_102) * (tf_2_array_3 [1]))))) && ((int) (~(((unsigned long long int) ((int) (tf_2_var_34))) * (3ULL))))) ? (-(((unsigned long long int) (+((int) (tf_2_var_96)))) - ((tf_2_array_1 [0]) + (tf_2_var_26)))) : ((-(+(tf_2_var_122))) - ((unsigned long long int) (!(((int) (tf_2_var_68)) + ((int) (16)))))))))
-

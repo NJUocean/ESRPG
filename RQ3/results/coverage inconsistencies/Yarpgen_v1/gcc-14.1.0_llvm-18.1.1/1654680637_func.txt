@@ -1,3 +1,0 @@
-9 : 2 | 1
- tf_0_struct_obj_6.member_2_1.member_1_0 = (signed char) (((((((int) (tf_0_struct_obj_5.member_1_4)) || ((int) (-4LL))) || (((int) (tf_0_var_42)) && ((int) (tf_0_var_52)))) || ((((int) (tf_0_struct_obj_6.member_2_6.member_1_9)) || ((int) (tf_0_var_34))) && (((int) (tf_0_var_68)) && ((int) (3))))) && (((((int) (tf_0_struct_obj_6.member_2_6.member_1_6)) && ((int) (tf_0_var_36))) && ((int) ((signed char) (tf_0_struct_obj_3.member_2_7)))) || ((int) ((-32767 - 1))))) && (!((((((int) (tf_0_struct_obj_1.member_3_1)) || ((int) (tf_0_var_100))) ? ((int) (tf_0_var_54)) : (((int) (tf_0_struct_obj_3.member_2_0.member_1_9)) || ((int) (tf_0_var_28))))) && (((int) (tf_0_struct_obj_2.member_3_1)) && (((int) (tf_0_struct_obj_3.member_2_1.member_1_8)) || (-513))))));
-

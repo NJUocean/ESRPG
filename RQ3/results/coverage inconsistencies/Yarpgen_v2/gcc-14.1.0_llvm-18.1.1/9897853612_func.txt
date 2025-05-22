@@ -1,3 +1,0 @@
-36 : 32 | 16
- arr_6 [i_0] [i_1] = ((/* implicit */unsigned int) ((((/* implicit */_Bool) arr_2 [i_0] [i_0])) && (((/* implicit */_Bool) ((((/* implicit */_Bool) ((((/* implicit */_Bool) arr_0 [i_0])) ? (var_4) : (-289835423)))) ? (((((/* implicit */_Bool) arr_2 [i_0] [i_0])) ? (arr_2 [i_0] [i_1]) : (((/* implicit */unsigned int) arr_0 [i_0])))) : (((/* implicit */unsigned int) (-(2077462781)))))))));
-
